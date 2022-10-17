@@ -1,0 +1,220 @@
+[
+  { "emoji": "🍇", "emojiName": "Grapes", "innerURL": "/grapes/" },
+  { "emoji": "🍈", "emojiName": "Melon", "innerURL": "/melon/" },
+  { "emoji": "🍉", "emojiName": "Watermelon", "innerURL": "/watermelon/" },
+  { "emoji": "🍊", "emojiName": "Tangerine", "innerURL": "/tangerine/" },
+  { "emoji": "🍋", "emojiName": "Lemon", "innerURL": "/lemon/" },
+  { "emoji": "🍌", "emojiName": "Banana", "innerURL": "/banana/" },
+  { "emoji": "🍍", "emojiName": "Pineapple", "innerURL": "/pineapple/" },
+  { "emoji": "🥭", "emojiName": "Mango", "innerURL": "/mango/" },
+  { "emoji": "🍎", "emojiName": "Red Apple", "innerURL": "/red-apple/" },
+  { "emoji": "🍏", "emojiName": "Green Apple", "innerURL": "/green-apple/" },
+  { "emoji": "🍐", "emojiName": "Pear", "innerURL": "/pear/" },
+  { "emoji": "🍑", "emojiName": "Peach", "innerURL": "/peach/" },
+  { "emoji": "🍒", "emojiName": "Cherries", "innerURL": "/cherries/" },
+  { "emoji": "🍓", "emojiName": "Strawberry", "innerURL": "/strawberry/" },
+  { "emoji": "🫐", "emojiName": "Blueberries", "innerURL": "/blueberries/" },
+  { "emoji": "🥝", "emojiName": "Kiwi Fruit", "innerURL": "/kiwi-fruit/" },
+  { "emoji": "🍅", "emojiName": "Tomato", "innerURL": "/tomato/" },
+  { "emoji": "🫒", "emojiName": "Olive", "innerURL": "/olive/" },
+  { "emoji": "🥥", "emojiName": "Coconut", "innerURL": "/coconut/" },
+  { "emoji": "🥑", "emojiName": "Avocado", "innerURL": "/avocado/" },
+  { "emoji": "🍆", "emojiName": "Eggplant", "innerURL": "/eggplant/" },
+  { "emoji": "🥔", "emojiName": "Potato", "innerURL": "/potato/" },
+  { "emoji": "🥕", "emojiName": "Carrot", "innerURL": "/carrot/" },
+  { "emoji": "🌽", "emojiName": "Ear of Corn", "innerURL": "/ear-of-corn/" },
+  { "emoji": "🌶️", "emojiName": " Hot Pepper", "innerURL": "/hot-pepper/" },
+  { "emoji": "🫑", "emojiName": "Bell Pepper", "innerURL": "/bell-pepper/" },
+  { "emoji": "🥒", "emojiName": "Cucumber", "innerURL": "/cucumber/" },
+  { "emoji": "🥬", "emojiName": "Leafy Green", "innerURL": "/leafy-green/" },
+  { "emoji": "🥦", "emojiName": "Broccoli", "innerURL": "/broccoli/" },
+  { "emoji": "🧄", "emojiName": "Garlic", "innerURL": "/garlic/" },
+  { "emoji": "🧅", "emojiName": "Onion", "innerURL": "/onion/" },
+  { "emoji": "🍄", "emojiName": "Mushroom", "innerURL": "/mushroom/" },
+  { "emoji": "🥜", "emojiName": "Peanuts", "innerURL": "/peanuts/" },
+  { "emoji": "🫘", "emojiName": "Beans", "innerURL": "/beans/" },
+  { "emoji": "🌰", "emojiName": "Chestnut", "innerURL": "/chestnut/" },
+  { "emoji": "🍞", "emojiName": "Bread", "innerURL": "/bread/" },
+  { "emoji": "🥐", "emojiName": "Croissant", "innerURL": "/croissant/" },
+  {
+    "emoji": "🥖",
+    "emojiName": "Baguette Bread",
+    "innerURL": "/baguette-bread/"
+  },
+  { "emoji": "🫓", "emojiName": "Flatbread", "innerURL": "/flatbread/" },
+  { "emoji": "🥨", "emojiName": "Pretzel", "innerURL": "/pretzel/" },
+  { "emoji": "🥯", "emojiName": "Bagel", "innerURL": "/bagel/" },
+  { "emoji": "🥞", "emojiName": "Pancakes", "innerURL": "/pancakes/" },
+  { "emoji": "🧇", "emojiName": "Waffle", "innerURL": "/waffle/" },
+  { "emoji": "🧀", "emojiName": "Cheese Wedge", "innerURL": "/cheese-wedge/" },
+  { "emoji": "🍖", "emojiName": "Meat on Bone", "innerURL": "/meat-on-bone/" },
+  { "emoji": "🍗", "emojiName": "Poultry Leg", "innerURL": "/poultry-leg/" },
+  { "emoji": "🥩", "emojiName": "Cut of Meat", "innerURL": "/cut-of-meat/" },
+  { "emoji": "🥓", "emojiName": "Bacon", "innerURL": "/bacon/" },
+  { "emoji": "🍔", "emojiName": "Hamburger", "innerURL": "/hamburger/" },
+  { "emoji": "🍟", "emojiName": "French Fries", "innerURL": "/french-fries/" },
+  { "emoji": "🍕", "emojiName": "Pizza", "innerURL": "/pizza/" },
+  { "emoji": "🌭", "emojiName": "Hot Dog", "innerURL": "/hot-dog/" },
+  { "emoji": "🥪", "emojiName": "Sandwich", "innerURL": "/sandwich/" },
+  { "emoji": "🌮", "emojiName": "Taco", "innerURL": "/taco/" },
+  { "emoji": "🌯", "emojiName": "Burrito", "innerURL": "/burrito/" },
+  { "emoji": "🫔", "emojiName": "Tamale", "innerURL": "/tamale/" },
+  {
+    "emoji": "🥙",
+    "emojiName": "Stuffed Flatbread",
+    "innerURL": "/stuffed-flatbread/"
+  },
+  { "emoji": "🧆", "emojiName": "Falafel", "innerURL": "/falafel/" },
+  { "emoji": "🥚", "emojiName": "Egg", "innerURL": "/egg/" },
+  { "emoji": "🍳", "emojiName": "Cooking", "innerURL": "/cooking/" },
+  {
+    "emoji": "🥘",
+    "emojiName": "Shallow Pan of Food",
+    "innerURL": "/shallow-pan-of-food/"
+  },
+  { "emoji": "🍲", "emojiName": "Pot of Food", "innerURL": "/pot-of-food/" },
+  { "emoji": "🫕", "emojiName": "Fondue", "innerURL": "/fondue/" },
+  {
+    "emoji": "🥣",
+    "emojiName": "Bowl with Spoon",
+    "innerURL": "/bowl-with-spoon/"
+  },
+  { "emoji": "🥗", "emojiName": "Green Salad", "innerURL": "/green-salad/" },
+  { "emoji": "🍿", "emojiName": "Popcorn", "innerURL": "/popcorn/" },
+  { "emoji": "🧈", "emojiName": "Butter", "innerURL": "/butter/" },
+  { "emoji": "🧂", "emojiName": "Salt", "innerURL": "/salt/" },
+  { "emoji": "🥫", "emojiName": "Canned Food", "innerURL": "/canned-food/" },
+  { "emoji": "🍱", "emojiName": "Bento Box", "innerURL": "/bento-box/" },
+  { "emoji": "🍘", "emojiName": "Rice Cracker", "innerURL": "/rice-cracker/" },
+  { "emoji": "🍙", "emojiName": "Rice Ball", "innerURL": "/rice-ball/" },
+  { "emoji": "🍚", "emojiName": "Cooked Rice", "innerURL": "/cooked-rice/" },
+  { "emoji": "🍛", "emojiName": "Curry Rice", "innerURL": "/curry-rice/" },
+  {
+    "emoji": "🍜",
+    "emojiName": "Steaming Bowl",
+    "innerURL": "/steaming-bowl/"
+  },
+  { "emoji": "🍝", "emojiName": "Spaghetti", "innerURL": "/spaghetti/" },
+  {
+    "emoji": "🍠",
+    "emojiName": "Roasted Sweet Potato",
+    "innerURL": "/roasted-sweet-potato/"
+  },
+  { "emoji": "🍢", "emojiName": "Oden", "innerURL": "/oden/" },
+  { "emoji": "🍣", "emojiName": "Sushi", "innerURL": "/sushi/" },
+  { "emoji": "🍤", "emojiName": "Fried Shrimp", "innerURL": "/fried-shrimp/" },
+  {
+    "emoji": "🍥",
+    "emojiName": "Fish Cake with Swirl",
+    "innerURL": "/fish-cake-with-swirl/"
+  },
+  { "emoji": "🥮", "emojiName": "Moon Cake", "innerURL": "/moon-cake/" },
+  { "emoji": "🍡", "emojiName": "Dango", "innerURL": "/dango/" },
+  { "emoji": "🥟", "emojiName": "Dumpling", "innerURL": "/dumpling/" },
+  {
+    "emoji": "🥠",
+    "emojiName": "Fortune Cookie",
+    "innerURL": "/fortune-cookie/"
+  },
+  { "emoji": "🥡", "emojiName": "Takeout Box", "innerURL": "/takeout-box/" },
+  { "emoji": "🦪", "emojiName": "Oyster", "innerURL": "/oyster/" },
+  {
+    "emoji": "🍦",
+    "emojiName": "Soft Ice Cream",
+    "innerURL": "/soft-ice-cream/"
+  },
+  { "emoji": "🍧", "emojiName": "Shaved Ice", "innerURL": "/shaved-ice/" },
+  { "emoji": "🍨", "emojiName": "Ice Cream", "innerURL": "/ice-cream/" },
+  { "emoji": "🍩", "emojiName": "Doughnut", "innerURL": "/doughnut/" },
+  { "emoji": "🍪", "emojiName": "Cookie", "innerURL": "/cookie/" },
+  {
+    "emoji": "🎂",
+    "emojiName": "Birthday Cake",
+    "innerURL": "/birthday-cake/"
+  },
+  { "emoji": "🍰", "emojiName": "Shortcake", "innerURL": "/shortcake/" },
+  { "emoji": "🧁", "emojiName": "Cupcake", "innerURL": "/cupcake/" },
+  { "emoji": "🥧", "emojiName": "Pie", "innerURL": "/pie/" },
+  {
+    "emoji": "🍫",
+    "emojiName": "Chocolate Bar",
+    "innerURL": "/chocolate-bar/"
+  },
+  { "emoji": "🍬", "emojiName": "Candy", "innerURL": "/candy/" },
+  { "emoji": "🍭", "emojiName": "Lollipop", "innerURL": "/lollipop/" },
+  { "emoji": "🍮", "emojiName": "Custard", "innerURL": "/custard/" },
+  { "emoji": "🍯", "emojiName": "Honey Pot", "innerURL": "/honey-pot/" },
+  { "emoji": "🍼", "emojiName": "Baby Bottle", "innerURL": "/baby-bottle/" },
+  {
+    "emoji": "🥛",
+    "emojiName": "Glass of Milk",
+    "innerURL": "/glass-of-milk/"
+  },
+  { "emoji": "☕", "emojiName": "ot Beverage", "innerURL": "/hot-beverage/" },
+  { "emoji": "🫖", "emojiName": "Teapot", "innerURL": "/teapot/" },
+  {
+    "emoji": "🍵",
+    "emojiName": "Teacup Without Handle",
+    "innerURL": "/teacup-without-handle/"
+  },
+  { "emoji": "🍶", "emojiName": "Sake", "innerURL": "/sake/" },
+  {
+    "emoji": "🍾",
+    "emojiName": "Bottle with Popping Cork",
+    "innerURL": "/bottle-with-popping-cork/"
+  },
+  { "emoji": "🍷", "emojiName": "Wine Glass", "innerURL": "/wine-glass/" },
+  {
+    "emoji": "🍸",
+    "emojiName": "Cocktail Glass",
+    "innerURL": "/cocktail-glass/"
+  },
+  {
+    "emoji": "🍹",
+    "emojiName": "Tropical Drink",
+    "innerURL": "/tropical-drink/"
+  },
+  { "emoji": "🍺", "emojiName": "Beer Mug", "innerURL": "/beer-mug/" },
+  {
+    "emoji": "🍻",
+    "emojiName": "Clinking Beer Mugs",
+    "innerURL": "/clinking-beer-mugs/"
+  },
+  {
+    "emoji": "🥂",
+    "emojiName": "Clinking Glasses",
+    "innerURL": "/clinking-glasses/"
+  },
+  {
+    "emoji": "🥃",
+    "emojiName": "Tumbler Glass",
+    "innerURL": "/tumbler-glass/"
+  },
+  {
+    "emoji": "🫗",
+    "emojiName": "Pouring Liquid",
+    "innerURL": "/pouring-liquid/"
+  },
+  {
+    "emoji": "🥤",
+    "emojiName": "Cup with Straw",
+    "innerURL": "/cup-with-straw/"
+  },
+  { "emoji": "🧋", "emojiName": "Bubble Tea", "innerURL": "/bubble-tea/" },
+  { "emoji": "🧃", "emojiName": "Beverage Box", "innerURL": "/beverage-box/" },
+  { "emoji": "🧉", "emojiName": "Mate", "innerURL": "/mate/" },
+  { "emoji": "🧊", "emojiName": "Ice", "innerURL": "/ice/" },
+  { "emoji": "🥢", "emojiName": "Chopsticks", "innerURL": "/chopsticks/" },
+  {
+    "emoji": "🍽️",
+    "emojiName": " Fork and Knife with Plate",
+    "innerURL": "/fork-and-knife-with-plate/"
+  },
+  {
+    "emoji": "🍴",
+    "emojiName": "Fork and Knife",
+    "innerURL": "/fork-and-knife/"
+  },
+  { "emoji": "🥄", "emojiName": "Spoon", "innerURL": "/spoon/" },
+  { "emoji": "🫙", "emojiName": "Jar", "innerURL": "/jar/" }
+]

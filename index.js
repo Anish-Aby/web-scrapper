@@ -5,6 +5,8 @@ const express = require("express");
 const PORT = 8000;
 const http = require("http");
 
+const fs = require("fs");
+
 // EXPRESS APP
 
 const app = express();
@@ -22,37 +24,33 @@ const peopleURL = "https://emojipedia.org/people/";
 
 const peopleEmojiInstance = axios.create({
   baseURL: "https://emojipedia.org/",
-  timeout: 60000,
-  httpAgent: new http.Agent({ keepAlive: true }),
+  timeout: 0,
+  httpAgent: new http.Agent({ keepAlive: true, keepAliveMsecs: 1000000 }),
 });
 
-peopleEmojiInstance.get("people/").then((response) => {
-  const peopleHTML = response.data;
-  const people$ = cheerio.load(peopleHTML);
-  const peopleEmojiArray = [];
+peopleEmojiInstance
+  .get("flags/")
+  .then((response) => {
+    const peopleHTML = response.data;
+    const people$ = cheerio.load(peopleHTML);
+    const peopleEmojiArray = [];
 
-  people$(".emoji-list li", peopleHTML).each(function () {
-    const emoji = people$(this).find(".emoji").text();
-    const innerURL = people$(this).find("a").attr("href");
+    people$(".emoji-list li", peopleHTML).each(function () {
+      const emoji = people$(this).find(".emoji").text();
+      let emojiName = people$(this).find("a").text().substring(3);
+      const innerURL = people$(this).find("a").attr("href");
 
-    // AXIOS SECOND PAGE (DESCRIPTION)
-
-    peopleEmojiInstance.get(innerURL).then((response) => {
-      const peopleEmojiHTML = response.data;
-      const peopleEmoji$ = cheerio.load(peopleEmojiHTML);
-
-      peopleEmoji$(".description", peopleEmojiHTML).each(function () {
-        const description = peopleEmoji$(this).find("p:first").text();
-
-        peopleEmojiArray.push({
-          emoji,
-          description,
-          innerURL,
-        });
+      peopleEmojiArray.push({
+        emoji,
+        emojiName,
+        innerURL,
       });
-      console.log(peopleEmojiArray);
-      console.log(peopleEmojiArray.length);
     });
-    // SECOND PAGE OVER
+    fs.writeFile("./flags.json", JSON.stringify(peopleEmojiArray), (err) => {
+      console.log(err);
+    });
+    console.log("Done writing.");
+  })
+  .catch((err) => {
+    console.log(err);
   });
-});

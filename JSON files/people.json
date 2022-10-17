@@ -1,0 +1,2417 @@
+[
+    {
+        "emoji": "😀",
+        "emojiName": "Grinning Face",
+        "innerURL": "/grinning-face/"
+    },
+    {
+        "emoji": "😃",
+        "emojiName": "Grinning Face with Big Eyes",
+        "innerURL": "/grinning-face-with-big-eyes/"
+    },
+    {
+        "emoji": "😄",
+        "emojiName": "Grinning Face with Smiling Eyes",
+        "innerURL": "/grinning-face-with-smiling-eyes/"
+    },
+    {
+        "emoji": "😁",
+        "emojiName": "Beaming Face with Smiling Eyes",
+        "innerURL": "/beaming-face-with-smiling-eyes/"
+    },
+    {
+        "emoji": "😆",
+        "emojiName": "Grinning Squinting Face",
+        "innerURL": "/grinning-squinting-face/"
+    },
+    {
+        "emoji": "😅",
+        "emojiName": "Grinning Face with Sweat",
+        "innerURL": "/grinning-face-with-sweat/"
+    },
+    {
+        "emoji": "🤣",
+        "emojiName": "Rolling on the Floor Laughing",
+        "innerURL": "/rolling-on-the-floor-laughing/"
+    },
+    {
+        "emoji": "😂",
+        "emojiName": "Face with Tears of Joy",
+        "innerURL": "/face-with-tears-of-joy/"
+    },
+    {
+        "emoji": "🙂",
+        "emojiName": "Slightly Smiling Face",
+        "innerURL": "/slightly-smiling-face/"
+    },
+    {
+        "emoji": "🙃",
+        "emojiName": "Upside-Down Face",
+        "innerURL": "/upside-down-face/"
+    },
+    {
+        "emoji": "🫠",
+        "emojiName": "Melting Face",
+        "innerURL": "/melting-face/"
+    },
+    {
+        "emoji": "😉",
+        "emojiName": "Winking Face",
+        "innerURL": "/winking-face/"
+    },
+    {
+        "emoji": "😊",
+        "emojiName": "Smiling Face with Smiling Eyes",
+        "innerURL": "/smiling-face-with-smiling-eyes/"
+    },
+    {
+        "emoji": "😇",
+        "emojiName": "Smiling Face with Halo",
+        "innerURL": "/smiling-face-with-halo/"
+    },
+    {
+        "emoji": "🥰",
+        "emojiName": "Smiling Face with Hearts",
+        "innerURL": "/smiling-face-with-hearts/"
+    },
+    {
+        "emoji": "😍",
+        "emojiName": "Smiling Face with Heart-Eyes",
+        "innerURL": "/smiling-face-with-heart-eyes/"
+    },
+    {
+        "emoji": "🤩",
+        "emojiName": "Star-Struck",
+        "innerURL": "/star-struck/"
+    },
+    {
+        "emoji": "😘",
+        "emojiName": "Face Blowing a Kiss",
+        "innerURL": "/face-blowing-a-kiss/"
+    },
+    {
+        "emoji": "😗",
+        "emojiName": "Kissing Face",
+        "innerURL": "/kissing-face/"
+    },
+    {
+        "emoji": "☺️",
+        "emojiName": "Smiling Face",
+        "innerURL": "/smiling-face/"
+    },
+    {
+        "emoji": "😚",
+        "emojiName": "Kissing Face with Closed Eyes",
+        "innerURL": "/kissing-face-with-closed-eyes/"
+    },
+    {
+        "emoji": "😙",
+        "emojiName": "Kissing Face with Smiling Eyes",
+        "innerURL": "/kissing-face-with-smiling-eyes/"
+    },
+    {
+        "emoji": "🥲",
+        "emojiName": "Smiling Face with Tear",
+        "innerURL": "/smiling-face-with-tear/"
+    },
+    {
+        "emoji": "😋",
+        "emojiName": "Face Savoring Food",
+        "innerURL": "/face-savoring-food/"
+    },
+    {
+        "emoji": "😛",
+        "emojiName": "Face with Tongue",
+        "innerURL": "/face-with-tongue/"
+    },
+    {
+        "emoji": "😜",
+        "emojiName": "Winking Face with Tongue",
+        "innerURL": "/winking-face-with-tongue/"
+    },
+    {
+        "emoji": "🤪",
+        "emojiName": "Zany Face",
+        "innerURL": "/zany-face/"
+    },
+    {
+        "emoji": "😝",
+        "emojiName": "Squinting Face with Tongue",
+        "innerURL": "/squinting-face-with-tongue/"
+    },
+    {
+        "emoji": "🤑",
+        "emojiName": "Money-Mouth Face",
+        "innerURL": "/money-mouth-face/"
+    },
+    {
+        "emoji": "🤗",
+        "emojiName": "Smiling Face with Open Hands",
+        "innerURL": "/hugging-face/"
+    },
+    {
+        "emoji": "🤭",
+        "emojiName": "Face with Hand Over Mouth",
+        "innerURL": "/face-with-hand-over-mouth/"
+    },
+    {
+        "emoji": "🫢",
+        "emojiName": "Face with Open Eyes and Hand Over Mouth",
+        "innerURL": "/face-with-open-eyes-and-hand-over-mouth/"
+    },
+    {
+        "emoji": "🫣",
+        "emojiName": "Face with Peeking Eye",
+        "innerURL": "/face-with-peeking-eye/"
+    },
+    {
+        "emoji": "🤫",
+        "emojiName": "Shushing Face",
+        "innerURL": "/shushing-face/"
+    },
+    {
+        "emoji": "🤔",
+        "emojiName": "Thinking Face",
+        "innerURL": "/thinking-face/"
+    },
+    {
+        "emoji": "🫡",
+        "emojiName": "Saluting Face",
+        "innerURL": "/saluting-face/"
+    },
+    {
+        "emoji": "🤐",
+        "emojiName": "Zipper-Mouth Face",
+        "innerURL": "/zipper-mouth-face/"
+    },
+    {
+        "emoji": "🤨",
+        "emojiName": "Face with Raised Eyebrow",
+        "innerURL": "/face-with-raised-eyebrow/"
+    },
+    {
+        "emoji": "😐",
+        "emojiName": "Neutral Face",
+        "innerURL": "/neutral-face/"
+    },
+    {
+        "emoji": "😑",
+        "emojiName": "Expressionless Face",
+        "innerURL": "/expressionless-face/"
+    },
+    {
+        "emoji": "😶",
+        "emojiName": "Face Without Mouth",
+        "innerURL": "/face-without-mouth/"
+    },
+    {
+        "emoji": "🫥",
+        "emojiName": "Dotted Line Face",
+        "innerURL": "/dotted-line-face/"
+    },
+    {
+        "emoji": "😶‍🌫️",
+        "emojiName": "🌫️ Face in Clouds",
+        "innerURL": "/face-in-clouds/"
+    },
+    {
+        "emoji": "😏",
+        "emojiName": "Smirking Face",
+        "innerURL": "/smirking-face/"
+    },
+    {
+        "emoji": "😒",
+        "emojiName": "Unamused Face",
+        "innerURL": "/unamused-face/"
+    },
+    {
+        "emoji": "🙄",
+        "emojiName": "Face with Rolling Eyes",
+        "innerURL": "/face-with-rolling-eyes/"
+    },
+    {
+        "emoji": "😬",
+        "emojiName": "Grimacing Face",
+        "innerURL": "/grimacing-face/"
+    },
+    {
+        "emoji": "😮‍💨",
+        "emojiName": "💨 Face Exhaling",
+        "innerURL": "/face-exhaling/"
+    },
+    {
+        "emoji": "🤥",
+        "emojiName": "Lying Face",
+        "innerURL": "/lying-face/"
+    },
+    {
+        "emoji": "😌",
+        "emojiName": "Relieved Face",
+        "innerURL": "/relieved-face/"
+    },
+    {
+        "emoji": "😔",
+        "emojiName": "Pensive Face",
+        "innerURL": "/pensive-face/"
+    },
+    {
+        "emoji": "😪",
+        "emojiName": "Sleepy Face",
+        "innerURL": "/sleepy-face/"
+    },
+    {
+        "emoji": "🤤",
+        "emojiName": "Drooling Face",
+        "innerURL": "/drooling-face/"
+    },
+    {
+        "emoji": "😴",
+        "emojiName": "Sleeping Face",
+        "innerURL": "/sleeping-face/"
+    },
+    {
+        "emoji": "😷",
+        "emojiName": "Face with Medical Mask",
+        "innerURL": "/face-with-medical-mask/"
+    },
+    {
+        "emoji": "🤒",
+        "emojiName": "Face with Thermometer",
+        "innerURL": "/face-with-thermometer/"
+    },
+    {
+        "emoji": "🤕",
+        "emojiName": "Face with Head-Bandage",
+        "innerURL": "/face-with-head-bandage/"
+    },
+    {
+        "emoji": "🤢",
+        "emojiName": "Nauseated Face",
+        "innerURL": "/nauseated-face/"
+    },
+    {
+        "emoji": "🤮",
+        "emojiName": "Face Vomiting",
+        "innerURL": "/face-vomiting/"
+    },
+    {
+        "emoji": "🤧",
+        "emojiName": "Sneezing Face",
+        "innerURL": "/sneezing-face/"
+    },
+    {
+        "emoji": "🥵",
+        "emojiName": "Hot Face",
+        "innerURL": "/hot-face/"
+    },
+    {
+        "emoji": "🥶",
+        "emojiName": "Cold Face",
+        "innerURL": "/cold-face/"
+    },
+    {
+        "emoji": "🥴",
+        "emojiName": "Woozy Face",
+        "innerURL": "/woozy-face/"
+    },
+    {
+        "emoji": "😵",
+        "emojiName": "Face with Crossed-Out Eyes",
+        "innerURL": "/dizzy-face/"
+    },
+    {
+        "emoji": "😵‍💫",
+        "emojiName": "💫 Face with Spiral Eyes",
+        "innerURL": "/face-with-spiral-eyes/"
+    },
+    {
+        "emoji": "🤯",
+        "emojiName": "Exploding Head",
+        "innerURL": "/exploding-head/"
+    },
+    {
+        "emoji": "🤠",
+        "emojiName": "Cowboy Hat Face",
+        "innerURL": "/cowboy-hat-face/"
+    },
+    {
+        "emoji": "🥳",
+        "emojiName": "Partying Face",
+        "innerURL": "/partying-face/"
+    },
+    {
+        "emoji": "🥸",
+        "emojiName": "Disguised Face",
+        "innerURL": "/disguised-face/"
+    },
+    {
+        "emoji": "😎",
+        "emojiName": "Smiling Face with Sunglasses",
+        "innerURL": "/smiling-face-with-sunglasses/"
+    },
+    {
+        "emoji": "🤓",
+        "emojiName": "Nerd Face",
+        "innerURL": "/nerd-face/"
+    },
+    {
+        "emoji": "🧐",
+        "emojiName": "Face with Monocle",
+        "innerURL": "/face-with-monocle/"
+    },
+    {
+        "emoji": "😕",
+        "emojiName": "Confused Face",
+        "innerURL": "/confused-face/"
+    },
+    {
+        "emoji": "🫤",
+        "emojiName": "Face with Diagonal Mouth",
+        "innerURL": "/face-with-diagonal-mouth/"
+    },
+    {
+        "emoji": "😟",
+        "emojiName": "Worried Face",
+        "innerURL": "/worried-face/"
+    },
+    {
+        "emoji": "🙁",
+        "emojiName": "Slightly Frowning Face",
+        "innerURL": "/slightly-frowning-face/"
+    },
+    {
+        "emoji": "☹️",
+        "emojiName": "Frowning Face",
+        "innerURL": "/frowning-face/"
+    },
+    {
+        "emoji": "😮",
+        "emojiName": "Face with Open Mouth",
+        "innerURL": "/face-with-open-mouth/"
+    },
+    {
+        "emoji": "😯",
+        "emojiName": "Hushed Face",
+        "innerURL": "/hushed-face/"
+    },
+    {
+        "emoji": "😲",
+        "emojiName": "Astonished Face",
+        "innerURL": "/astonished-face/"
+    },
+    {
+        "emoji": "😳",
+        "emojiName": "Flushed Face",
+        "innerURL": "/flushed-face/"
+    },
+    {
+        "emoji": "🥺",
+        "emojiName": "Pleading Face",
+        "innerURL": "/pleading-face/"
+    },
+    {
+        "emoji": "🥹",
+        "emojiName": "Face Holding Back Tears",
+        "innerURL": "/face-holding-back-tears/"
+    },
+    {
+        "emoji": "😦",
+        "emojiName": "Frowning Face with Open Mouth",
+        "innerURL": "/frowning-face-with-open-mouth/"
+    },
+    {
+        "emoji": "😧",
+        "emojiName": "Anguished Face",
+        "innerURL": "/anguished-face/"
+    },
+    {
+        "emoji": "😨",
+        "emojiName": "Fearful Face",
+        "innerURL": "/fearful-face/"
+    },
+    {
+        "emoji": "😰",
+        "emojiName": "Anxious Face with Sweat",
+        "innerURL": "/anxious-face-with-sweat/"
+    },
+    {
+        "emoji": "😥",
+        "emojiName": "Sad but Relieved Face",
+        "innerURL": "/sad-but-relieved-face/"
+    },
+    {
+        "emoji": "😢",
+        "emojiName": "Crying Face",
+        "innerURL": "/crying-face/"
+    },
+    {
+        "emoji": "😭",
+        "emojiName": "Loudly Crying Face",
+        "innerURL": "/loudly-crying-face/"
+    },
+    {
+        "emoji": "😱",
+        "emojiName": "Face Screaming in Fear",
+        "innerURL": "/face-screaming-in-fear/"
+    },
+    {
+        "emoji": "😖",
+        "emojiName": "Confounded Face",
+        "innerURL": "/confounded-face/"
+    },
+    {
+        "emoji": "😣",
+        "emojiName": "Persevering Face",
+        "innerURL": "/persevering-face/"
+    },
+    {
+        "emoji": "😞",
+        "emojiName": "Disappointed Face",
+        "innerURL": "/disappointed-face/"
+    },
+    {
+        "emoji": "😓",
+        "emojiName": "Downcast Face with Sweat",
+        "innerURL": "/downcast-face-with-sweat/"
+    },
+    {
+        "emoji": "😩",
+        "emojiName": "Weary Face",
+        "innerURL": "/weary-face/"
+    },
+    {
+        "emoji": "😫",
+        "emojiName": "Tired Face",
+        "innerURL": "/tired-face/"
+    },
+    {
+        "emoji": "🥱",
+        "emojiName": "Yawning Face",
+        "innerURL": "/yawning-face/"
+    },
+    {
+        "emoji": "😤",
+        "emojiName": "Face with Steam From Nose",
+        "innerURL": "/face-with-steam-from-nose/"
+    },
+    {
+        "emoji": "😡",
+        "emojiName": "Enraged Face",
+        "innerURL": "/pouting-face/"
+    },
+    {
+        "emoji": "😠",
+        "emojiName": "Angry Face",
+        "innerURL": "/angry-face/"
+    },
+    {
+        "emoji": "🤬",
+        "emojiName": "Face with Symbols on Mouth",
+        "innerURL": "/face-with-symbols-on-mouth/"
+    },
+    {
+        "emoji": "😈",
+        "emojiName": "Smiling Face with Horns",
+        "innerURL": "/smiling-face-with-horns/"
+    },
+    {
+        "emoji": "👿",
+        "emojiName": "Angry Face with Horns",
+        "innerURL": "/angry-face-with-horns/"
+    },
+    {
+        "emoji": "💀",
+        "emojiName": "Skull",
+        "innerURL": "/skull/"
+    },
+    {
+        "emoji": "☠️",
+        "emojiName": "Skull and Crossbones",
+        "innerURL": "/skull-and-crossbones/"
+    },
+    {
+        "emoji": "💩",
+        "emojiName": "Pile of Poo",
+        "innerURL": "/pile-of-poo/"
+    },
+    {
+        "emoji": "🤡",
+        "emojiName": "Clown Face",
+        "innerURL": "/clown-face/"
+    },
+    {
+        "emoji": "👹",
+        "emojiName": "Ogre",
+        "innerURL": "/ogre/"
+    },
+    {
+        "emoji": "👺",
+        "emojiName": "Goblin",
+        "innerURL": "/goblin/"
+    },
+    {
+        "emoji": "👻",
+        "emojiName": "Ghost",
+        "innerURL": "/ghost/"
+    },
+    {
+        "emoji": "👽",
+        "emojiName": "Alien",
+        "innerURL": "/alien/"
+    },
+    {
+        "emoji": "👾",
+        "emojiName": "Alien Monster",
+        "innerURL": "/alien-monster/"
+    },
+    {
+        "emoji": "🤖",
+        "emojiName": "Robot",
+        "innerURL": "/robot/"
+    },
+    {
+        "emoji": "😺",
+        "emojiName": "Grinning Cat",
+        "innerURL": "/grinning-cat/"
+    },
+    {
+        "emoji": "😸",
+        "emojiName": "Grinning Cat with Smiling Eyes",
+        "innerURL": "/grinning-cat-with-smiling-eyes/"
+    },
+    {
+        "emoji": "😹",
+        "emojiName": "Cat with Tears of Joy",
+        "innerURL": "/cat-with-tears-of-joy/"
+    },
+    {
+        "emoji": "😻",
+        "emojiName": "Smiling Cat with Heart-Eyes",
+        "innerURL": "/smiling-cat-with-heart-eyes/"
+    },
+    {
+        "emoji": "😼",
+        "emojiName": "Cat with Wry Smile",
+        "innerURL": "/cat-with-wry-smile/"
+    },
+    {
+        "emoji": "😽",
+        "emojiName": "Kissing Cat",
+        "innerURL": "/kissing-cat/"
+    },
+    {
+        "emoji": "🙀",
+        "emojiName": "Weary Cat",
+        "innerURL": "/weary-cat/"
+    },
+    {
+        "emoji": "😿",
+        "emojiName": "Crying Cat",
+        "innerURL": "/crying-cat/"
+    },
+    {
+        "emoji": "😾",
+        "emojiName": "Pouting Cat",
+        "innerURL": "/pouting-cat/"
+    },
+    {
+        "emoji": "💋",
+        "emojiName": "Kiss Mark",
+        "innerURL": "/kiss-mark/"
+    },
+    {
+        "emoji": "👋",
+        "emojiName": "Waving Hand",
+        "innerURL": "/waving-hand/"
+    },
+    {
+        "emoji": "🤚",
+        "emojiName": "Raised Back of Hand",
+        "innerURL": "/raised-back-of-hand/"
+    },
+    {
+        "emoji": "🖐️",
+        "emojiName": " Hand with Fingers Splayed",
+        "innerURL": "/hand-with-fingers-splayed/"
+    },
+    {
+        "emoji": "✋",
+        "emojiName": "aised Hand",
+        "innerURL": "/raised-hand/"
+    },
+    {
+        "emoji": "🖖",
+        "emojiName": "Vulcan Salute",
+        "innerURL": "/vulcan-salute/"
+    },
+    {
+        "emoji": "🫱",
+        "emojiName": "Rightwards Hand",
+        "innerURL": "/rightwards-hand/"
+    },
+    {
+        "emoji": "🫲",
+        "emojiName": "Leftwards Hand",
+        "innerURL": "/leftwards-hand/"
+    },
+    {
+        "emoji": "🫳",
+        "emojiName": "Palm Down Hand",
+        "innerURL": "/palm-down-hand/"
+    },
+    {
+        "emoji": "🫴",
+        "emojiName": "Palm Up Hand",
+        "innerURL": "/palm-up-hand/"
+    },
+    {
+        "emoji": "👌",
+        "emojiName": "OK Hand",
+        "innerURL": "/ok-hand/"
+    },
+    {
+        "emoji": "🤌",
+        "emojiName": "Pinched Fingers",
+        "innerURL": "/pinched-fingers/"
+    },
+    {
+        "emoji": "🤏",
+        "emojiName": "Pinching Hand",
+        "innerURL": "/pinching-hand/"
+    },
+    {
+        "emoji": "✌️",
+        "emojiName": "Victory Hand",
+        "innerURL": "/victory-hand/"
+    },
+    {
+        "emoji": "🤞",
+        "emojiName": "Crossed Fingers",
+        "innerURL": "/crossed-fingers/"
+    },
+    {
+        "emoji": "🫰",
+        "emojiName": "Hand with Index Finger and Thumb Crossed",
+        "innerURL": "/hand-with-index-finger-and-thumb-crossed/"
+    },
+    {
+        "emoji": "🤟",
+        "emojiName": "Love-You Gesture",
+        "innerURL": "/love-you-gesture/"
+    },
+    {
+        "emoji": "🤘",
+        "emojiName": "Sign of the Horns",
+        "innerURL": "/sign-of-the-horns/"
+    },
+    {
+        "emoji": "🤙",
+        "emojiName": "Call Me Hand",
+        "innerURL": "/call-me-hand/"
+    },
+    {
+        "emoji": "👈",
+        "emojiName": "Backhand Index Pointing Left",
+        "innerURL": "/backhand-index-pointing-left/"
+    },
+    {
+        "emoji": "👉",
+        "emojiName": "Backhand Index Pointing Right",
+        "innerURL": "/backhand-index-pointing-right/"
+    },
+    {
+        "emoji": "👆",
+        "emojiName": "Backhand Index Pointing Up",
+        "innerURL": "/backhand-index-pointing-up/"
+    },
+    {
+        "emoji": "🖕",
+        "emojiName": "Middle Finger",
+        "innerURL": "/middle-finger/"
+    },
+    {
+        "emoji": "👇",
+        "emojiName": "Backhand Index Pointing Down",
+        "innerURL": "/backhand-index-pointing-down/"
+    },
+    {
+        "emoji": "☝️",
+        "emojiName": "Index Pointing Up",
+        "innerURL": "/index-pointing-up/"
+    },
+    {
+        "emoji": "🫵",
+        "emojiName": "Index Pointing at the Viewer",
+        "innerURL": "/index-pointing-at-the-viewer/"
+    },
+    {
+        "emoji": "👍",
+        "emojiName": "Thumbs Up",
+        "innerURL": "/thumbs-up/"
+    },
+    {
+        "emoji": "👎",
+        "emojiName": "Thumbs Down",
+        "innerURL": "/thumbs-down/"
+    },
+    {
+        "emoji": "✊",
+        "emojiName": "aised Fist",
+        "innerURL": "/raised-fist/"
+    },
+    {
+        "emoji": "👊",
+        "emojiName": "Oncoming Fist",
+        "innerURL": "/oncoming-fist/"
+    },
+    {
+        "emoji": "🤛",
+        "emojiName": "Left-Facing Fist",
+        "innerURL": "/left-facing-fist/"
+    },
+    {
+        "emoji": "🤜",
+        "emojiName": "Right-Facing Fist",
+        "innerURL": "/right-facing-fist/"
+    },
+    {
+        "emoji": "👏",
+        "emojiName": "Clapping Hands",
+        "innerURL": "/clapping-hands/"
+    },
+    {
+        "emoji": "🙌",
+        "emojiName": "Raising Hands",
+        "innerURL": "/raising-hands/"
+    },
+    {
+        "emoji": "🫶",
+        "emojiName": "Heart Hands",
+        "innerURL": "/heart-hands/"
+    },
+    {
+        "emoji": "👐",
+        "emojiName": "Open Hands",
+        "innerURL": "/open-hands/"
+    },
+    {
+        "emoji": "🤲",
+        "emojiName": "Palms Up Together",
+        "innerURL": "/palms-up-together/"
+    },
+    {
+        "emoji": "🤝",
+        "emojiName": "Handshake",
+        "innerURL": "/handshake/"
+    },
+    {
+        "emoji": "🙏",
+        "emojiName": "Folded Hands",
+        "innerURL": "/folded-hands/"
+    },
+    {
+        "emoji": "✍️",
+        "emojiName": "Writing Hand",
+        "innerURL": "/writing-hand/"
+    },
+    {
+        "emoji": "💅",
+        "emojiName": "Nail Polish",
+        "innerURL": "/nail-polish/"
+    },
+    {
+        "emoji": "🤳",
+        "emojiName": "Selfie",
+        "innerURL": "/selfie/"
+    },
+    {
+        "emoji": "💪",
+        "emojiName": "Flexed Biceps",
+        "innerURL": "/flexed-biceps/"
+    },
+    {
+        "emoji": "🦾",
+        "emojiName": "Mechanical Arm",
+        "innerURL": "/mechanical-arm/"
+    },
+    {
+        "emoji": "🦿",
+        "emojiName": "Mechanical Leg",
+        "innerURL": "/mechanical-leg/"
+    },
+    {
+        "emoji": "🦵",
+        "emojiName": "Leg",
+        "innerURL": "/leg/"
+    },
+    {
+        "emoji": "🦶",
+        "emojiName": "Foot",
+        "innerURL": "/foot/"
+    },
+    {
+        "emoji": "👂",
+        "emojiName": "Ear",
+        "innerURL": "/ear/"
+    },
+    {
+        "emoji": "🦻",
+        "emojiName": "Ear with Hearing Aid",
+        "innerURL": "/ear-with-hearing-aid/"
+    },
+    {
+        "emoji": "👃",
+        "emojiName": "Nose",
+        "innerURL": "/nose/"
+    },
+    {
+        "emoji": "🧠",
+        "emojiName": "Brain",
+        "innerURL": "/brain/"
+    },
+    {
+        "emoji": "🫀",
+        "emojiName": "Anatomical Heart",
+        "innerURL": "/anatomical-heart/"
+    },
+    {
+        "emoji": "🫁",
+        "emojiName": "Lungs",
+        "innerURL": "/lungs/"
+    },
+    {
+        "emoji": "🦷",
+        "emojiName": "Tooth",
+        "innerURL": "/tooth/"
+    },
+    {
+        "emoji": "🦴",
+        "emojiName": "Bone",
+        "innerURL": "/bone/"
+    },
+    {
+        "emoji": "👀",
+        "emojiName": "Eyes",
+        "innerURL": "/eyes/"
+    },
+    {
+        "emoji": "👁️",
+        "emojiName": " Eye",
+        "innerURL": "/eye/"
+    },
+    {
+        "emoji": "👅",
+        "emojiName": "Tongue",
+        "innerURL": "/tongue/"
+    },
+    {
+        "emoji": "👄",
+        "emojiName": "Mouth",
+        "innerURL": "/mouth/"
+    },
+    {
+        "emoji": "🫦",
+        "emojiName": "Biting Lip",
+        "innerURL": "/biting-lip/"
+    },
+    {
+        "emoji": "👶",
+        "emojiName": "Baby",
+        "innerURL": "/baby/"
+    },
+    {
+        "emoji": "🧒",
+        "emojiName": "Child",
+        "innerURL": "/child/"
+    },
+    {
+        "emoji": "👦",
+        "emojiName": "Boy",
+        "innerURL": "/boy/"
+    },
+    {
+        "emoji": "👧",
+        "emojiName": "Girl",
+        "innerURL": "/girl/"
+    },
+    {
+        "emoji": "🧑",
+        "emojiName": "Person",
+        "innerURL": "/person/"
+    },
+    {
+        "emoji": "👱",
+        "emojiName": "Person: Blond Hair",
+        "innerURL": "/person-blond-hair/"
+    },
+    {
+        "emoji": "👨",
+        "emojiName": "Man",
+        "innerURL": "/man/"
+    },
+    {
+        "emoji": "🧔",
+        "emojiName": "Person: Beard",
+        "innerURL": "/person-beard/"
+    },
+    {
+        "emoji": "👨‍🦰",
+        "emojiName": "🦰 Man: Red Hair",
+        "innerURL": "/man-red-hair/"
+    },
+    {
+        "emoji": "👨‍🦱",
+        "emojiName": "🦱 Man: Curly Hair",
+        "innerURL": "/man-curly-hair/"
+    },
+    {
+        "emoji": "👨‍🦳",
+        "emojiName": "🦳 Man: White Hair",
+        "innerURL": "/man-white-hair/"
+    },
+    {
+        "emoji": "👨‍🦲",
+        "emojiName": "🦲 Man: Bald",
+        "innerURL": "/man-bald/"
+    },
+    {
+        "emoji": "👩",
+        "emojiName": "Woman",
+        "innerURL": "/woman/"
+    },
+    {
+        "emoji": "👩‍🦰",
+        "emojiName": "🦰 Woman: Red Hair",
+        "innerURL": "/woman-red-hair/"
+    },
+    {
+        "emoji": "🧑‍🦰",
+        "emojiName": "🦰 Person: Red Hair",
+        "innerURL": "/person-red-hair/"
+    },
+    {
+        "emoji": "👩‍🦱",
+        "emojiName": "🦱 Woman: Curly Hair",
+        "innerURL": "/woman-curly-hair/"
+    },
+    {
+        "emoji": "🧑‍🦱",
+        "emojiName": "🦱 Person: Curly Hair",
+        "innerURL": "/person-curly-hair/"
+    },
+    {
+        "emoji": "👩‍🦳",
+        "emojiName": "🦳 Woman: White Hair",
+        "innerURL": "/woman-white-hair/"
+    },
+    {
+        "emoji": "🧑‍🦳",
+        "emojiName": "🦳 Person: White Hair",
+        "innerURL": "/person-white-hair/"
+    },
+    {
+        "emoji": "👩‍🦲",
+        "emojiName": "🦲 Woman: Bald",
+        "innerURL": "/woman-bald/"
+    },
+    {
+        "emoji": "🧑‍🦲",
+        "emojiName": "🦲 Person: Bald",
+        "innerURL": "/person-bald/"
+    },
+    {
+        "emoji": "👱‍♀️",
+        "emojiName": "♀️ Woman: Blond Hair",
+        "innerURL": "/woman-blond-hair/"
+    },
+    {
+        "emoji": "👱‍♂️",
+        "emojiName": "♂️ Man: Blond Hair",
+        "innerURL": "/man-blond-hair/"
+    },
+    {
+        "emoji": "🧓",
+        "emojiName": "Older Person",
+        "innerURL": "/older-person/"
+    },
+    {
+        "emoji": "👴",
+        "emojiName": "Old Man",
+        "innerURL": "/old-man/"
+    },
+    {
+        "emoji": "👵",
+        "emojiName": "Old Woman",
+        "innerURL": "/old-woman/"
+    },
+    {
+        "emoji": "🙍",
+        "emojiName": "Person Frowning",
+        "innerURL": "/person-frowning/"
+    },
+    {
+        "emoji": "🙍‍♂️",
+        "emojiName": "♂️ Man Frowning",
+        "innerURL": "/man-frowning/"
+    },
+    {
+        "emoji": "🙍‍♀️",
+        "emojiName": "♀️ Woman Frowning",
+        "innerURL": "/woman-frowning/"
+    },
+    {
+        "emoji": "🙎",
+        "emojiName": "Person Pouting",
+        "innerURL": "/person-pouting/"
+    },
+    {
+        "emoji": "🙎‍♂️",
+        "emojiName": "♂️ Man Pouting",
+        "innerURL": "/man-pouting/"
+    },
+    {
+        "emoji": "🙎‍♀️",
+        "emojiName": "♀️ Woman Pouting",
+        "innerURL": "/woman-pouting/"
+    },
+    {
+        "emoji": "🙅",
+        "emojiName": "Person Gesturing No",
+        "innerURL": "/person-gesturing-no/"
+    },
+    {
+        "emoji": "🙅‍♂️",
+        "emojiName": "♂️ Man Gesturing No",
+        "innerURL": "/man-gesturing-no/"
+    },
+    {
+        "emoji": "🙅‍♀️",
+        "emojiName": "♀️ Woman Gesturing No",
+        "innerURL": "/woman-gesturing-no/"
+    },
+    {
+        "emoji": "🙆",
+        "emojiName": "Person Gesturing OK",
+        "innerURL": "/person-gesturing-ok/"
+    },
+    {
+        "emoji": "🙆‍♂️",
+        "emojiName": "♂️ Man Gesturing OK",
+        "innerURL": "/man-gesturing-ok/"
+    },
+    {
+        "emoji": "🙆‍♀️",
+        "emojiName": "♀️ Woman Gesturing OK",
+        "innerURL": "/woman-gesturing-ok/"
+    },
+    {
+        "emoji": "💁",
+        "emojiName": "Person Tipping Hand",
+        "innerURL": "/person-tipping-hand/"
+    },
+    {
+        "emoji": "💁‍♂️",
+        "emojiName": "♂️ Man Tipping Hand",
+        "innerURL": "/man-tipping-hand/"
+    },
+    {
+        "emoji": "💁‍♀️",
+        "emojiName": "♀️ Woman Tipping Hand",
+        "innerURL": "/woman-tipping-hand/"
+    },
+    {
+        "emoji": "🙋",
+        "emojiName": "Person Raising Hand",
+        "innerURL": "/person-raising-hand/"
+    },
+    {
+        "emoji": "🙋‍♂️",
+        "emojiName": "♂️ Man Raising Hand",
+        "innerURL": "/man-raising-hand/"
+    },
+    {
+        "emoji": "🙋‍♀️",
+        "emojiName": "♀️ Woman Raising Hand",
+        "innerURL": "/woman-raising-hand/"
+    },
+    {
+        "emoji": "🧏",
+        "emojiName": "Deaf Person",
+        "innerURL": "/deaf-person/"
+    },
+    {
+        "emoji": "🧏‍♂️",
+        "emojiName": "♂️ Deaf Man",
+        "innerURL": "/deaf-man/"
+    },
+    {
+        "emoji": "🧏‍♀️",
+        "emojiName": "♀️ Deaf Woman",
+        "innerURL": "/deaf-woman/"
+    },
+    {
+        "emoji": "🙇",
+        "emojiName": "Person Bowing",
+        "innerURL": "/person-bowing/"
+    },
+    {
+        "emoji": "🙇‍♂️",
+        "emojiName": "♂️ Man Bowing",
+        "innerURL": "/man-bowing/"
+    },
+    {
+        "emoji": "🙇‍♀️",
+        "emojiName": "♀️ Woman Bowing",
+        "innerURL": "/woman-bowing/"
+    },
+    {
+        "emoji": "🤦",
+        "emojiName": "Person Facepalming",
+        "innerURL": "/person-facepalming/"
+    },
+    {
+        "emoji": "🤦‍♂️",
+        "emojiName": "♂️ Man Facepalming",
+        "innerURL": "/man-facepalming/"
+    },
+    {
+        "emoji": "🤦‍♀️",
+        "emojiName": "♀️ Woman Facepalming",
+        "innerURL": "/woman-facepalming/"
+    },
+    {
+        "emoji": "🤷",
+        "emojiName": "Person Shrugging",
+        "innerURL": "/person-shrugging/"
+    },
+    {
+        "emoji": "🤷‍♂️",
+        "emojiName": "♂️ Man Shrugging",
+        "innerURL": "/man-shrugging/"
+    },
+    {
+        "emoji": "🤷‍♀️",
+        "emojiName": "♀️ Woman Shrugging",
+        "innerURL": "/woman-shrugging/"
+    },
+    {
+        "emoji": "🧑‍⚕️",
+        "emojiName": "⚕️ Health Worker",
+        "innerURL": "/health-worker/"
+    },
+    {
+        "emoji": "👨‍⚕️",
+        "emojiName": "⚕️ Man Health Worker",
+        "innerURL": "/man-health-worker/"
+    },
+    {
+        "emoji": "👩‍⚕️",
+        "emojiName": "⚕️ Woman Health Worker",
+        "innerURL": "/woman-health-worker/"
+    },
+    {
+        "emoji": "🧑‍🎓",
+        "emojiName": "🎓 Student",
+        "innerURL": "/student/"
+    },
+    {
+        "emoji": "👨‍🎓",
+        "emojiName": "🎓 Man Student",
+        "innerURL": "/man-student/"
+    },
+    {
+        "emoji": "👩‍🎓",
+        "emojiName": "🎓 Woman Student",
+        "innerURL": "/woman-student/"
+    },
+    {
+        "emoji": "🧑‍🏫",
+        "emojiName": "🏫 Teacher",
+        "innerURL": "/teacher/"
+    },
+    {
+        "emoji": "👨‍🏫",
+        "emojiName": "🏫 Man Teacher",
+        "innerURL": "/man-teacher/"
+    },
+    {
+        "emoji": "👩‍🏫",
+        "emojiName": "🏫 Woman Teacher",
+        "innerURL": "/woman-teacher/"
+    },
+    {
+        "emoji": "🧑‍⚖️",
+        "emojiName": "⚖️ Judge",
+        "innerURL": "/judge/"
+    },
+    {
+        "emoji": "👨‍⚖️",
+        "emojiName": "⚖️ Man Judge",
+        "innerURL": "/man-judge/"
+    },
+    {
+        "emoji": "👩‍⚖️",
+        "emojiName": "⚖️ Woman Judge",
+        "innerURL": "/woman-judge/"
+    },
+    {
+        "emoji": "🧑‍🌾",
+        "emojiName": "🌾 Farmer",
+        "innerURL": "/farmer/"
+    },
+    {
+        "emoji": "👨‍🌾",
+        "emojiName": "🌾 Man Farmer",
+        "innerURL": "/man-farmer/"
+    },
+    {
+        "emoji": "👩‍🌾",
+        "emojiName": "🌾 Woman Farmer",
+        "innerURL": "/woman-farmer/"
+    },
+    {
+        "emoji": "🧑‍🍳",
+        "emojiName": "🍳 Cook",
+        "innerURL": "/cook/"
+    },
+    {
+        "emoji": "👨‍🍳",
+        "emojiName": "🍳 Man Cook",
+        "innerURL": "/man-cook/"
+    },
+    {
+        "emoji": "👩‍🍳",
+        "emojiName": "🍳 Woman Cook",
+        "innerURL": "/woman-cook/"
+    },
+    {
+        "emoji": "🧑‍🔧",
+        "emojiName": "🔧 Mechanic",
+        "innerURL": "/mechanic/"
+    },
+    {
+        "emoji": "👨‍🔧",
+        "emojiName": "🔧 Man Mechanic",
+        "innerURL": "/man-mechanic/"
+    },
+    {
+        "emoji": "👩‍🔧",
+        "emojiName": "🔧 Woman Mechanic",
+        "innerURL": "/woman-mechanic/"
+    },
+    {
+        "emoji": "🧑‍🏭",
+        "emojiName": "🏭 Factory Worker",
+        "innerURL": "/factory-worker/"
+    },
+    {
+        "emoji": "👨‍🏭",
+        "emojiName": "🏭 Man Factory Worker",
+        "innerURL": "/man-factory-worker/"
+    },
+    {
+        "emoji": "👩‍🏭",
+        "emojiName": "🏭 Woman Factory Worker",
+        "innerURL": "/woman-factory-worker/"
+    },
+    {
+        "emoji": "🧑‍💼",
+        "emojiName": "💼 Office Worker",
+        "innerURL": "/office-worker/"
+    },
+    {
+        "emoji": "👨‍💼",
+        "emojiName": "💼 Man Office Worker",
+        "innerURL": "/man-office-worker/"
+    },
+    {
+        "emoji": "👩‍💼",
+        "emojiName": "💼 Woman Office Worker",
+        "innerURL": "/woman-office-worker/"
+    },
+    {
+        "emoji": "🧑‍🔬",
+        "emojiName": "🔬 Scientist",
+        "innerURL": "/scientist/"
+    },
+    {
+        "emoji": "👨‍🔬",
+        "emojiName": "🔬 Man Scientist",
+        "innerURL": "/man-scientist/"
+    },
+    {
+        "emoji": "👩‍🔬",
+        "emojiName": "🔬 Woman Scientist",
+        "innerURL": "/woman-scientist/"
+    },
+    {
+        "emoji": "🧑‍💻",
+        "emojiName": "💻 Technologist",
+        "innerURL": "/technologist/"
+    },
+    {
+        "emoji": "👨‍💻",
+        "emojiName": "💻 Man Technologist",
+        "innerURL": "/man-technologist/"
+    },
+    {
+        "emoji": "👩‍💻",
+        "emojiName": "💻 Woman Technologist",
+        "innerURL": "/woman-technologist/"
+    },
+    {
+        "emoji": "🧑‍🎤",
+        "emojiName": "🎤 Singer",
+        "innerURL": "/singer/"
+    },
+    {
+        "emoji": "👨‍🎤",
+        "emojiName": "🎤 Man Singer",
+        "innerURL": "/man-singer/"
+    },
+    {
+        "emoji": "👩‍🎤",
+        "emojiName": "🎤 Woman Singer",
+        "innerURL": "/woman-singer/"
+    },
+    {
+        "emoji": "🧑‍🎨",
+        "emojiName": "🎨 Artist",
+        "innerURL": "/artist/"
+    },
+    {
+        "emoji": "👨‍🎨",
+        "emojiName": "🎨 Man Artist",
+        "innerURL": "/man-artist/"
+    },
+    {
+        "emoji": "👩‍🎨",
+        "emojiName": "🎨 Woman Artist",
+        "innerURL": "/woman-artist/"
+    },
+    {
+        "emoji": "🧑‍✈️",
+        "emojiName": "✈️ Pilot",
+        "innerURL": "/pilot/"
+    },
+    {
+        "emoji": "👨‍✈️",
+        "emojiName": "✈️ Man Pilot",
+        "innerURL": "/man-pilot/"
+    },
+    {
+        "emoji": "👩‍✈️",
+        "emojiName": "✈️ Woman Pilot",
+        "innerURL": "/woman-pilot/"
+    },
+    {
+        "emoji": "🧑‍🚀",
+        "emojiName": "🚀 Astronaut",
+        "innerURL": "/astronaut/"
+    },
+    {
+        "emoji": "👨‍🚀",
+        "emojiName": "🚀 Man Astronaut",
+        "innerURL": "/man-astronaut/"
+    },
+    {
+        "emoji": "👩‍🚀",
+        "emojiName": "🚀 Woman Astronaut",
+        "innerURL": "/woman-astronaut/"
+    },
+    {
+        "emoji": "🧑‍🚒",
+        "emojiName": "🚒 Firefighter",
+        "innerURL": "/firefighter/"
+    },
+    {
+        "emoji": "👨‍🚒",
+        "emojiName": "🚒 Man Firefighter",
+        "innerURL": "/man-firefighter/"
+    },
+    {
+        "emoji": "👩‍🚒",
+        "emojiName": "🚒 Woman Firefighter",
+        "innerURL": "/woman-firefighter/"
+    },
+    {
+        "emoji": "👮",
+        "emojiName": "Police Officer",
+        "innerURL": "/police-officer/"
+    },
+    {
+        "emoji": "👮‍♂️",
+        "emojiName": "♂️ Man Police Officer",
+        "innerURL": "/man-police-officer/"
+    },
+    {
+        "emoji": "👮‍♀️",
+        "emojiName": "♀️ Woman Police Officer",
+        "innerURL": "/woman-police-officer/"
+    },
+    {
+        "emoji": "🕵️",
+        "emojiName": " Detective",
+        "innerURL": "/detective/"
+    },
+    {
+        "emoji": "🕵️‍♂️",
+        "emojiName": "‍♂️ Man Detective",
+        "innerURL": "/man-detective/"
+    },
+    {
+        "emoji": "🕵️‍♀️",
+        "emojiName": "‍♀️ Woman Detective",
+        "innerURL": "/woman-detective/"
+    },
+    {
+        "emoji": "💂",
+        "emojiName": "Guard",
+        "innerURL": "/guard/"
+    },
+    {
+        "emoji": "💂‍♂️",
+        "emojiName": "♂️ Man Guard",
+        "innerURL": "/man-guard/"
+    },
+    {
+        "emoji": "💂‍♀️",
+        "emojiName": "♀️ Woman Guard",
+        "innerURL": "/woman-guard/"
+    },
+    {
+        "emoji": "🥷",
+        "emojiName": "Ninja",
+        "innerURL": "/ninja/"
+    },
+    {
+        "emoji": "👷",
+        "emojiName": "Construction Worker",
+        "innerURL": "/construction-worker/"
+    },
+    {
+        "emoji": "👷‍♂️",
+        "emojiName": "♂️ Man Construction Worker",
+        "innerURL": "/man-construction-worker/"
+    },
+    {
+        "emoji": "👷‍♀️",
+        "emojiName": "♀️ Woman Construction Worker",
+        "innerURL": "/woman-construction-worker/"
+    },
+    {
+        "emoji": "🫅",
+        "emojiName": "Person with Crown",
+        "innerURL": "/person-with-crown/"
+    },
+    {
+        "emoji": "🤴",
+        "emojiName": "Prince",
+        "innerURL": "/prince/"
+    },
+    {
+        "emoji": "👸",
+        "emojiName": "Princess",
+        "innerURL": "/princess/"
+    },
+    {
+        "emoji": "👳",
+        "emojiName": "Person Wearing Turban",
+        "innerURL": "/person-wearing-turban/"
+    },
+    {
+        "emoji": "👳‍♂️",
+        "emojiName": "♂️ Man Wearing Turban",
+        "innerURL": "/man-wearing-turban/"
+    },
+    {
+        "emoji": "👳‍♀️",
+        "emojiName": "♀️ Woman Wearing Turban",
+        "innerURL": "/woman-wearing-turban/"
+    },
+    {
+        "emoji": "👲",
+        "emojiName": "Person with Skullcap",
+        "innerURL": "/person-with-skullcap/"
+    },
+    {
+        "emoji": "🧕",
+        "emojiName": "Woman with Headscarf",
+        "innerURL": "/person-with-headscarf/"
+    },
+    {
+        "emoji": "🤵",
+        "emojiName": "Person in Tuxedo",
+        "innerURL": "/person-in-tuxedo/"
+    },
+    {
+        "emoji": "🤵‍♂️",
+        "emojiName": "♂️ Man in Tuxedo",
+        "innerURL": "/man-in-tuxedo/"
+    },
+    {
+        "emoji": "🤵‍♀️",
+        "emojiName": "♀️ Woman in Tuxedo",
+        "innerURL": "/woman-in-tuxedo/"
+    },
+    {
+        "emoji": "👰",
+        "emojiName": "Person with Veil",
+        "innerURL": "/person-with-veil/"
+    },
+    {
+        "emoji": "👰‍♂️",
+        "emojiName": "♂️ Man with Veil",
+        "innerURL": "/man-with-veil/"
+    },
+    {
+        "emoji": "👰‍♀️",
+        "emojiName": "♀️ Woman with Veil",
+        "innerURL": "/woman-with-veil/"
+    },
+    {
+        "emoji": "🤰",
+        "emojiName": "Pregnant Woman",
+        "innerURL": "/pregnant-woman/"
+    },
+    {
+        "emoji": "🫃",
+        "emojiName": "Pregnant Man",
+        "innerURL": "/pregnant-man/"
+    },
+    {
+        "emoji": "🫄",
+        "emojiName": "Pregnant Person",
+        "innerURL": "/pregnant-person/"
+    },
+    {
+        "emoji": "🤱",
+        "emojiName": "Breast-Feeding",
+        "innerURL": "/breast-feeding/"
+    },
+    {
+        "emoji": "👩‍🍼",
+        "emojiName": "🍼 Woman Feeding Baby",
+        "innerURL": "/woman-feeding-baby/"
+    },
+    {
+        "emoji": "👨‍🍼",
+        "emojiName": "🍼 Man Feeding Baby",
+        "innerURL": "/man-feeding-baby/"
+    },
+    {
+        "emoji": "🧑‍🍼",
+        "emojiName": "🍼 Person Feeding Baby",
+        "innerURL": "/person-feeding-baby/"
+    },
+    {
+        "emoji": "👼",
+        "emojiName": "Baby Angel",
+        "innerURL": "/baby-angel/"
+    },
+    {
+        "emoji": "🎅",
+        "emojiName": "Santa Claus",
+        "innerURL": "/santa-claus/"
+    },
+    {
+        "emoji": "🤶",
+        "emojiName": "Mrs. Claus",
+        "innerURL": "/mrs-claus/"
+    },
+    {
+        "emoji": "🧑‍🎄",
+        "emojiName": "🎄 Mx Claus",
+        "innerURL": "/mx-claus/"
+    },
+    {
+        "emoji": "🦸",
+        "emojiName": "Superhero",
+        "innerURL": "/superhero/"
+    },
+    {
+        "emoji": "🦸‍♂️",
+        "emojiName": "♂️ Man Superhero",
+        "innerURL": "/man-superhero/"
+    },
+    {
+        "emoji": "🦸‍♀️",
+        "emojiName": "♀️ Woman Superhero",
+        "innerURL": "/woman-superhero/"
+    },
+    {
+        "emoji": "🦹",
+        "emojiName": "Supervillain",
+        "innerURL": "/supervillain/"
+    },
+    {
+        "emoji": "🦹‍♂️",
+        "emojiName": "♂️ Man Supervillain",
+        "innerURL": "/man-supervillain/"
+    },
+    {
+        "emoji": "🦹‍♀️",
+        "emojiName": "♀️ Woman Supervillain",
+        "innerURL": "/woman-supervillain/"
+    },
+    {
+        "emoji": "🧙",
+        "emojiName": "Mage",
+        "innerURL": "/mage/"
+    },
+    {
+        "emoji": "🧙‍♂️",
+        "emojiName": "♂️ Man Mage",
+        "innerURL": "/man-mage/"
+    },
+    {
+        "emoji": "🧙‍♀️",
+        "emojiName": "♀️ Woman Mage",
+        "innerURL": "/woman-mage/"
+    },
+    {
+        "emoji": "🧚",
+        "emojiName": "Fairy",
+        "innerURL": "/fairy/"
+    },
+    {
+        "emoji": "🧚‍♂️",
+        "emojiName": "♂️ Man Fairy",
+        "innerURL": "/man-fairy/"
+    },
+    {
+        "emoji": "🧚‍♀️",
+        "emojiName": "♀️ Woman Fairy",
+        "innerURL": "/woman-fairy/"
+    },
+    {
+        "emoji": "🧛",
+        "emojiName": "Vampire",
+        "innerURL": "/vampire/"
+    },
+    {
+        "emoji": "🧛‍♂️",
+        "emojiName": "♂️ Man Vampire",
+        "innerURL": "/man-vampire/"
+    },
+    {
+        "emoji": "🧛‍♀️",
+        "emojiName": "♀️ Woman Vampire",
+        "innerURL": "/woman-vampire/"
+    },
+    {
+        "emoji": "🧜",
+        "emojiName": "Merperson",
+        "innerURL": "/merperson/"
+    },
+    {
+        "emoji": "🧜‍♂️",
+        "emojiName": "♂️ Merman",
+        "innerURL": "/merman/"
+    },
+    {
+        "emoji": "🧜‍♀️",
+        "emojiName": "♀️ Mermaid",
+        "innerURL": "/mermaid/"
+    },
+    {
+        "emoji": "🧝",
+        "emojiName": "Elf",
+        "innerURL": "/elf/"
+    },
+    {
+        "emoji": "🧝‍♂️",
+        "emojiName": "♂️ Man Elf",
+        "innerURL": "/man-elf/"
+    },
+    {
+        "emoji": "🧝‍♀️",
+        "emojiName": "♀️ Woman Elf",
+        "innerURL": "/woman-elf/"
+    },
+    {
+        "emoji": "🧞",
+        "emojiName": "Genie",
+        "innerURL": "/genie/"
+    },
+    {
+        "emoji": "🧞‍♂️",
+        "emojiName": "♂️ Man Genie",
+        "innerURL": "/man-genie/"
+    },
+    {
+        "emoji": "🧞‍♀️",
+        "emojiName": "♀️ Woman Genie",
+        "innerURL": "/woman-genie/"
+    },
+    {
+        "emoji": "🧟",
+        "emojiName": "Zombie",
+        "innerURL": "/zombie/"
+    },
+    {
+        "emoji": "🧟‍♂️",
+        "emojiName": "♂️ Man Zombie",
+        "innerURL": "/man-zombie/"
+    },
+    {
+        "emoji": "🧟‍♀️",
+        "emojiName": "♀️ Woman Zombie",
+        "innerURL": "/woman-zombie/"
+    },
+    {
+        "emoji": "🧌",
+        "emojiName": "Troll",
+        "innerURL": "/troll/"
+    },
+    {
+        "emoji": "💆",
+        "emojiName": "Person Getting Massage",
+        "innerURL": "/person-getting-massage/"
+    },
+    {
+        "emoji": "💆‍♂️",
+        "emojiName": "♂️ Man Getting Massage",
+        "innerURL": "/man-getting-massage/"
+    },
+    {
+        "emoji": "💆‍♀️",
+        "emojiName": "♀️ Woman Getting Massage",
+        "innerURL": "/woman-getting-massage/"
+    },
+    {
+        "emoji": "💇",
+        "emojiName": "Person Getting Haircut",
+        "innerURL": "/person-getting-haircut/"
+    },
+    {
+        "emoji": "💇‍♂️",
+        "emojiName": "♂️ Man Getting Haircut",
+        "innerURL": "/man-getting-haircut/"
+    },
+    {
+        "emoji": "💇‍♀️",
+        "emojiName": "♀️ Woman Getting Haircut",
+        "innerURL": "/woman-getting-haircut/"
+    },
+    {
+        "emoji": "🚶",
+        "emojiName": "Person Walking",
+        "innerURL": "/person-walking/"
+    },
+    {
+        "emoji": "🚶‍♂️",
+        "emojiName": "♂️ Man Walking",
+        "innerURL": "/man-walking/"
+    },
+    {
+        "emoji": "🚶‍♀️",
+        "emojiName": "♀️ Woman Walking",
+        "innerURL": "/woman-walking/"
+    },
+    {
+        "emoji": "🧍",
+        "emojiName": "Person Standing",
+        "innerURL": "/person-standing/"
+    },
+    {
+        "emoji": "🧍‍♂️",
+        "emojiName": "♂️ Man Standing",
+        "innerURL": "/man-standing/"
+    },
+    {
+        "emoji": "🧍‍♀️",
+        "emojiName": "♀️ Woman Standing",
+        "innerURL": "/woman-standing/"
+    },
+    {
+        "emoji": "🧎",
+        "emojiName": "Person Kneeling",
+        "innerURL": "/person-kneeling/"
+    },
+    {
+        "emoji": "🧎‍♂️",
+        "emojiName": "♂️ Man Kneeling",
+        "innerURL": "/man-kneeling/"
+    },
+    {
+        "emoji": "🧎‍♀️",
+        "emojiName": "♀️ Woman Kneeling",
+        "innerURL": "/woman-kneeling/"
+    },
+    {
+        "emoji": "🧑‍🦯",
+        "emojiName": "🦯 Person with White Cane",
+        "innerURL": "/person-with-white-cane/"
+    },
+    {
+        "emoji": "👨‍🦯",
+        "emojiName": "🦯 Man with White Cane",
+        "innerURL": "/man-with-white-cane/"
+    },
+    {
+        "emoji": "👩‍🦯",
+        "emojiName": "🦯 Woman with White Cane",
+        "innerURL": "/woman-with-white-cane/"
+    },
+    {
+        "emoji": "🧑‍🦼",
+        "emojiName": "🦼 Person in Motorized Wheelchair",
+        "innerURL": "/person-in-motorized-wheelchair/"
+    },
+    {
+        "emoji": "👨‍🦼",
+        "emojiName": "🦼 Man in Motorized Wheelchair",
+        "innerURL": "/man-in-motorized-wheelchair/"
+    },
+    {
+        "emoji": "👩‍🦼",
+        "emojiName": "🦼 Woman in Motorized Wheelchair",
+        "innerURL": "/woman-in-motorized-wheelchair/"
+    },
+    {
+        "emoji": "🧑‍🦽",
+        "emojiName": "🦽 Person in Manual Wheelchair",
+        "innerURL": "/person-in-manual-wheelchair/"
+    },
+    {
+        "emoji": "👨‍🦽",
+        "emojiName": "🦽 Man in Manual Wheelchair",
+        "innerURL": "/man-in-manual-wheelchair/"
+    },
+    {
+        "emoji": "👩‍🦽",
+        "emojiName": "🦽 Woman in Manual Wheelchair",
+        "innerURL": "/woman-in-manual-wheelchair/"
+    },
+    {
+        "emoji": "🏃",
+        "emojiName": "Person Running",
+        "innerURL": "/person-running/"
+    },
+    {
+        "emoji": "🏃‍♂️",
+        "emojiName": "♂️ Man Running",
+        "innerURL": "/man-running/"
+    },
+    {
+        "emoji": "🏃‍♀️",
+        "emojiName": "♀️ Woman Running",
+        "innerURL": "/woman-running/"
+    },
+    {
+        "emoji": "💃",
+        "emojiName": "Woman Dancing",
+        "innerURL": "/woman-dancing/"
+    },
+    {
+        "emoji": "🕺",
+        "emojiName": "Man Dancing",
+        "innerURL": "/man-dancing/"
+    },
+    {
+        "emoji": "🕴️",
+        "emojiName": " Person in Suit Levitating",
+        "innerURL": "/person-in-suit-levitating/"
+    },
+    {
+        "emoji": "👯",
+        "emojiName": "People with Bunny Ears",
+        "innerURL": "/people-with-bunny-ears/"
+    },
+    {
+        "emoji": "👯‍♂️",
+        "emojiName": "♂️ Men with Bunny Ears",
+        "innerURL": "/men-with-bunny-ears/"
+    },
+    {
+        "emoji": "👯‍♀️",
+        "emojiName": "♀️ Women with Bunny Ears",
+        "innerURL": "/women-with-bunny-ears/"
+    },
+    {
+        "emoji": "🧖",
+        "emojiName": "Person in Steamy Room",
+        "innerURL": "/person-in-steamy-room/"
+    },
+    {
+        "emoji": "🧖‍♂️",
+        "emojiName": "♂️ Man in Steamy Room",
+        "innerURL": "/man-in-steamy-room/"
+    },
+    {
+        "emoji": "🧖‍♀️",
+        "emojiName": "♀️ Woman in Steamy Room",
+        "innerURL": "/woman-in-steamy-room/"
+    },
+    {
+        "emoji": "🧘",
+        "emojiName": "Person in Lotus Position",
+        "innerURL": "/person-in-lotus-position/"
+    },
+    {
+        "emoji": "🧑‍🤝‍🧑",
+        "emojiName": "🤝‍🧑 People Holding Hands",
+        "innerURL": "/people-holding-hands/"
+    },
+    {
+        "emoji": "👭",
+        "emojiName": "Women Holding Hands",
+        "innerURL": "/women-holding-hands/"
+    },
+    {
+        "emoji": "👫",
+        "emojiName": "Woman and Man Holding Hands",
+        "innerURL": "/woman-and-man-holding-hands/"
+    },
+    {
+        "emoji": "👬",
+        "emojiName": "Men Holding Hands",
+        "innerURL": "/men-holding-hands/"
+    },
+    {
+        "emoji": "💏",
+        "emojiName": "Kiss",
+        "innerURL": "/kiss/"
+    },
+    {
+        "emoji": "👩‍❤️‍💋‍👨",
+        "emojiName": "❤️‍💋‍👨 Kiss: Woman, Man",
+        "innerURL": "/kiss-woman-man/"
+    },
+    {
+        "emoji": "👨‍❤️‍💋‍👨",
+        "emojiName": "❤️‍💋‍👨 Kiss: Man, Man",
+        "innerURL": "/kiss-man-man/"
+    },
+    {
+        "emoji": "👩‍❤️‍💋‍👩",
+        "emojiName": "❤️‍💋‍👩 Kiss: Woman, Woman",
+        "innerURL": "/kiss-woman-woman/"
+    },
+    {
+        "emoji": "💑",
+        "emojiName": "Couple with Heart",
+        "innerURL": "/couple-with-heart/"
+    },
+    {
+        "emoji": "👩‍❤️‍👨",
+        "emojiName": "❤️‍👨 Couple with Heart: Woman, Man",
+        "innerURL": "/couple-with-heart-woman-man/"
+    },
+    {
+        "emoji": "👨‍❤️‍👨",
+        "emojiName": "❤️‍👨 Couple with Heart: Man, Man",
+        "innerURL": "/couple-with-heart-man-man/"
+    },
+    {
+        "emoji": "👩‍❤️‍👩",
+        "emojiName": "❤️‍👩 Couple with Heart: Woman, Woman",
+        "innerURL": "/couple-with-heart-woman-woman/"
+    },
+    {
+        "emoji": "👪",
+        "emojiName": "Family",
+        "innerURL": "/family/"
+    },
+    {
+        "emoji": "👨‍👩‍👦",
+        "emojiName": "👩‍👦 Family: Man, Woman, Boy",
+        "innerURL": "/family-man-woman-boy/"
+    },
+    {
+        "emoji": "👨‍👩‍👧",
+        "emojiName": "👩‍👧 Family: Man, Woman, Girl",
+        "innerURL": "/family-man-woman-girl/"
+    },
+    {
+        "emoji": "👨‍👩‍👧‍👦",
+        "emojiName": "👩‍👧‍👦 Family: Man, Woman, Girl, Boy",
+        "innerURL": "/family-man-woman-girl-boy/"
+    },
+    {
+        "emoji": "👨‍👩‍👦‍👦",
+        "emojiName": "👩‍👦‍👦 Family: Man, Woman, Boy, Boy",
+        "innerURL": "/family-man-woman-boy-boy/"
+    },
+    {
+        "emoji": "👨‍👩‍👧‍👧",
+        "emojiName": "👩‍👧‍👧 Family: Man, Woman, Girl, Girl",
+        "innerURL": "/family-man-woman-girl-girl/"
+    },
+    {
+        "emoji": "👨‍👨‍👦",
+        "emojiName": "👨‍👦 Family: Man, Man, Boy",
+        "innerURL": "/family-man-man-boy/"
+    },
+    {
+        "emoji": "👨‍👨‍👧",
+        "emojiName": "👨‍👧 Family: Man, Man, Girl",
+        "innerURL": "/family-man-man-girl/"
+    },
+    {
+        "emoji": "👨‍👨‍👧‍👦",
+        "emojiName": "👨‍👧‍👦 Family: Man, Man, Girl, Boy",
+        "innerURL": "/family-man-man-girl-boy/"
+    },
+    {
+        "emoji": "👨‍👨‍👦‍👦",
+        "emojiName": "👨‍👦‍👦 Family: Man, Man, Boy, Boy",
+        "innerURL": "/family-man-man-boy-boy/"
+    },
+    {
+        "emoji": "👨‍👨‍👧‍👧",
+        "emojiName": "👨‍👧‍👧 Family: Man, Man, Girl, Girl",
+        "innerURL": "/family-man-man-girl-girl/"
+    },
+    {
+        "emoji": "👩‍👩‍👦",
+        "emojiName": "👩‍👦 Family: Woman, Woman, Boy",
+        "innerURL": "/family-woman-woman-boy/"
+    },
+    {
+        "emoji": "👩‍👩‍👧",
+        "emojiName": "👩‍👧 Family: Woman, Woman, Girl",
+        "innerURL": "/family-woman-woman-girl/"
+    },
+    {
+        "emoji": "👩‍👩‍👧‍👦",
+        "emojiName": "👩‍👧‍👦 Family: Woman, Woman, Girl, Boy",
+        "innerURL": "/family-woman-woman-girl-boy/"
+    },
+    {
+        "emoji": "👩‍👩‍👦‍👦",
+        "emojiName": "👩‍👦‍👦 Family: Woman, Woman, Boy, Boy",
+        "innerURL": "/family-woman-woman-boy-boy/"
+    },
+    {
+        "emoji": "👩‍👩‍👧‍👧",
+        "emojiName": "👩‍👧‍👧 Family: Woman, Woman, Girl, Girl",
+        "innerURL": "/family-woman-woman-girl-girl/"
+    },
+    {
+        "emoji": "👨‍👦",
+        "emojiName": "👦 Family: Man, Boy",
+        "innerURL": "/family-man-boy/"
+    },
+    {
+        "emoji": "👨‍👦‍👦",
+        "emojiName": "👦‍👦 Family: Man, Boy, Boy",
+        "innerURL": "/family-man-boy-boy/"
+    },
+    {
+        "emoji": "👨‍👧",
+        "emojiName": "👧 Family: Man, Girl",
+        "innerURL": "/family-man-girl/"
+    },
+    {
+        "emoji": "👨‍👧‍👦",
+        "emojiName": "👧‍👦 Family: Man, Girl, Boy",
+        "innerURL": "/family-man-girl-boy/"
+    },
+    {
+        "emoji": "👨‍👧‍👧",
+        "emojiName": "👧‍👧 Family: Man, Girl, Girl",
+        "innerURL": "/family-man-girl-girl/"
+    },
+    {
+        "emoji": "👩‍👦",
+        "emojiName": "👦 Family: Woman, Boy",
+        "innerURL": "/family-woman-boy/"
+    },
+    {
+        "emoji": "👩‍👦‍👦",
+        "emojiName": "👦‍👦 Family: Woman, Boy, Boy",
+        "innerURL": "/family-woman-boy-boy/"
+    },
+    {
+        "emoji": "👩‍👧",
+        "emojiName": "👧 Family: Woman, Girl",
+        "innerURL": "/family-woman-girl/"
+    },
+    {
+        "emoji": "👩‍👧‍👦",
+        "emojiName": "👧‍👦 Family: Woman, Girl, Boy",
+        "innerURL": "/family-woman-girl-boy/"
+    },
+    {
+        "emoji": "👩‍👧‍👧",
+        "emojiName": "👧‍👧 Family: Woman, Girl, Girl",
+        "innerURL": "/family-woman-girl-girl/"
+    },
+    {
+        "emoji": "🗣️",
+        "emojiName": " Speaking Head",
+        "innerURL": "/speaking-head/"
+    },
+    {
+        "emoji": "👤",
+        "emojiName": "Bust in Silhouette",
+        "innerURL": "/bust-in-silhouette/"
+    },
+    {
+        "emoji": "👥",
+        "emojiName": "Busts in Silhouette",
+        "innerURL": "/busts-in-silhouette/"
+    },
+    {
+        "emoji": "🫂",
+        "emojiName": "People Hugging",
+        "innerURL": "/people-hugging/"
+    },
+    {
+        "emoji": "👣",
+        "emojiName": "Footprints",
+        "innerURL": "/footprints/"
+    },
+    {
+        "emoji": "🧳",
+        "emojiName": "Luggage",
+        "innerURL": "/luggage/"
+    },
+    {
+        "emoji": "🌂",
+        "emojiName": "Closed Umbrella",
+        "innerURL": "/closed-umbrella/"
+    },
+    {
+        "emoji": "☂️",
+        "emojiName": "Umbrella",
+        "innerURL": "/umbrella/"
+    },
+    {
+        "emoji": "🎃",
+        "emojiName": "Jack-O-Lantern",
+        "innerURL": "/jack-o-lantern/"
+    },
+    {
+        "emoji": "🧵",
+        "emojiName": "Thread",
+        "innerURL": "/thread/"
+    },
+    {
+        "emoji": "🧶",
+        "emojiName": "Yarn",
+        "innerURL": "/yarn/"
+    },
+    {
+        "emoji": "👓",
+        "emojiName": "Glasses",
+        "innerURL": "/glasses/"
+    },
+    {
+        "emoji": "🕶️",
+        "emojiName": " Sunglasses",
+        "innerURL": "/sunglasses/"
+    },
+    {
+        "emoji": "🥽",
+        "emojiName": "Goggles",
+        "innerURL": "/goggles/"
+    },
+    {
+        "emoji": "🥼",
+        "emojiName": "Lab Coat",
+        "innerURL": "/lab-coat/"
+    },
+    {
+        "emoji": "🦺",
+        "emojiName": "Safety Vest",
+        "innerURL": "/safety-vest/"
+    },
+    {
+        "emoji": "👔",
+        "emojiName": "Necktie",
+        "innerURL": "/necktie/"
+    },
+    {
+        "emoji": "👕",
+        "emojiName": "T-Shirt",
+        "innerURL": "/t-shirt/"
+    },
+    {
+        "emoji": "👖",
+        "emojiName": "Jeans",
+        "innerURL": "/jeans/"
+    },
+    {
+        "emoji": "🧣",
+        "emojiName": "Scarf",
+        "innerURL": "/scarf/"
+    },
+    {
+        "emoji": "🧤",
+        "emojiName": "Gloves",
+        "innerURL": "/gloves/"
+    },
+    {
+        "emoji": "🧥",
+        "emojiName": "Coat",
+        "innerURL": "/coat/"
+    },
+    {
+        "emoji": "🧦",
+        "emojiName": "Socks",
+        "innerURL": "/socks/"
+    },
+    {
+        "emoji": "👗",
+        "emojiName": "Dress",
+        "innerURL": "/dress/"
+    },
+    {
+        "emoji": "👘",
+        "emojiName": "Kimono",
+        "innerURL": "/kimono/"
+    },
+    {
+        "emoji": "🥻",
+        "emojiName": "Sari",
+        "innerURL": "/sari/"
+    },
+    {
+        "emoji": "🩱",
+        "emojiName": "One-Piece Swimsuit",
+        "innerURL": "/one-piece-swimsuit/"
+    },
+    {
+        "emoji": "🩲",
+        "emojiName": "Briefs",
+        "innerURL": "/briefs/"
+    },
+    {
+        "emoji": "🩳",
+        "emojiName": "Shorts",
+        "innerURL": "/shorts/"
+    },
+    {
+        "emoji": "👙",
+        "emojiName": "Bikini",
+        "innerURL": "/bikini/"
+    },
+    {
+        "emoji": "👚",
+        "emojiName": "Woman’s Clothes",
+        "innerURL": "/womans-clothes/"
+    },
+    {
+        "emoji": "👛",
+        "emojiName": "Purse",
+        "innerURL": "/purse/"
+    },
+    {
+        "emoji": "👜",
+        "emojiName": "Handbag",
+        "innerURL": "/handbag/"
+    },
+    {
+        "emoji": "👝",
+        "emojiName": "Clutch Bag",
+        "innerURL": "/clutch-bag/"
+    },
+    {
+        "emoji": "🎒",
+        "emojiName": "Backpack",
+        "innerURL": "/backpack/"
+    },
+    {
+        "emoji": "🩴",
+        "emojiName": "Thong Sandal",
+        "innerURL": "/thong-sandal/"
+    },
+    {
+        "emoji": "👞",
+        "emojiName": "Man’s Shoe",
+        "innerURL": "/mans-shoe/"
+    },
+    {
+        "emoji": "👟",
+        "emojiName": "Running Shoe",
+        "innerURL": "/running-shoe/"
+    },
+    {
+        "emoji": "🥾",
+        "emojiName": "Hiking Boot",
+        "innerURL": "/hiking-boot/"
+    },
+    {
+        "emoji": "🥿",
+        "emojiName": "Flat Shoe",
+        "innerURL": "/flat-shoe/"
+    },
+    {
+        "emoji": "👠",
+        "emojiName": "High-Heeled Shoe",
+        "innerURL": "/high-heeled-shoe/"
+    },
+    {
+        "emoji": "👡",
+        "emojiName": "Woman’s Sandal",
+        "innerURL": "/womans-sandal/"
+    },
+    {
+        "emoji": "🩰",
+        "emojiName": "Ballet Shoes",
+        "innerURL": "/ballet-shoes/"
+    },
+    {
+        "emoji": "👢",
+        "emojiName": "Woman’s Boot",
+        "innerURL": "/womans-boot/"
+    },
+    {
+        "emoji": "👑",
+        "emojiName": "Crown",
+        "innerURL": "/crown/"
+    },
+    {
+        "emoji": "👒",
+        "emojiName": "Woman’s Hat",
+        "innerURL": "/womans-hat/"
+    },
+    {
+        "emoji": "🎩",
+        "emojiName": "Top Hat",
+        "innerURL": "/top-hat/"
+    },
+    {
+        "emoji": "🎓",
+        "emojiName": "Graduation Cap",
+        "innerURL": "/graduation-cap/"
+    },
+    {
+        "emoji": "🧢",
+        "emojiName": "Billed Cap",
+        "innerURL": "/billed-cap/"
+    },
+    {
+        "emoji": "🪖",
+        "emojiName": "Military Helmet",
+        "innerURL": "/military-helmet/"
+    },
+    {
+        "emoji": "⛑️",
+        "emojiName": "Rescue Worker’s Helmet",
+        "innerURL": "/rescue-workers-helmet/"
+    },
+    {
+        "emoji": "💄",
+        "emojiName": "Lipstick",
+        "innerURL": "/lipstick/"
+    },
+    {
+        "emoji": "💍",
+        "emojiName": "Ring",
+        "innerURL": "/ring/"
+    },
+    {
+        "emoji": "💼",
+        "emojiName": "Briefcase",
+        "innerURL": "/briefcase/"
+    },
+    {
+        "emoji": "🩸",
+        "emojiName": "Drop of Blood",
+        "innerURL": "/drop-of-blood/"
+    }
+]

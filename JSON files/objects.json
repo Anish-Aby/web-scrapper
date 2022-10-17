@@ -1,0 +1,522 @@
+[
+  { "emoji": "💌", "emojiName": "Love Letter", "innerURL": "/love-letter/" },
+  { "emoji": "🕳️", "emojiName": " Hole", "innerURL": "/hole/" },
+  { "emoji": "💣", "emojiName": "Bomb", "innerURL": "/bomb/" },
+  {
+    "emoji": "🛀",
+    "emojiName": "Person Taking Bath",
+    "innerURL": "/person-taking-bath/"
+  },
+  {
+    "emoji": "🛌",
+    "emojiName": "Person in Bed",
+    "innerURL": "/person-in-bed/"
+  },
+  {
+    "emoji": "🔪",
+    "emojiName": "Kitchen Knife",
+    "innerURL": "/kitchen-knife/"
+  },
+  { "emoji": "🏺", "emojiName": "Amphora", "innerURL": "/amphora/" },
+  { "emoji": "🗺️", "emojiName": " World Map", "innerURL": "/world-map/" },
+  { "emoji": "🧭", "emojiName": "Compass", "innerURL": "/compass/" },
+  { "emoji": "🧱", "emojiName": "Brick", "innerURL": "/brick/" },
+  { "emoji": "💈", "emojiName": "Barber Pole", "innerURL": "/barber-pole/" },
+  {
+    "emoji": "🦽",
+    "emojiName": "Manual Wheelchair",
+    "innerURL": "/manual-wheelchair/"
+  },
+  {
+    "emoji": "🦼",
+    "emojiName": "Motorized Wheelchair",
+    "innerURL": "/motorized-wheelchair/"
+  },
+  { "emoji": "🛢️", "emojiName": " Oil Drum", "innerURL": "/oil-drum/" },
+  { "emoji": "🛎️", "emojiName": " Bellhop Bell", "innerURL": "/bellhop-bell/" },
+  { "emoji": "🧳", "emojiName": "Luggage", "innerURL": "/luggage/" },
+  {
+    "emoji": "⌛",
+    "emojiName": "ourglass Done",
+    "innerURL": "/hourglass-done/"
+  },
+  {
+    "emoji": "⏳",
+    "emojiName": "ourglass Not Done",
+    "innerURL": "/hourglass-not-done/"
+  },
+  { "emoji": "⌚", "emojiName": "atch", "innerURL": "/watch/" },
+  { "emoji": "⏰", "emojiName": "larm Clock", "innerURL": "/alarm-clock/" },
+  { "emoji": "⏱️", "emojiName": "Stopwatch", "innerURL": "/stopwatch/" },
+  { "emoji": "⏲️", "emojiName": "Timer Clock", "innerURL": "/timer-clock/" },
+  {
+    "emoji": "🕰️",
+    "emojiName": " Mantelpiece Clock",
+    "innerURL": "/mantelpiece-clock/"
+  },
+  { "emoji": "🌡️", "emojiName": " Thermometer", "innerURL": "/thermometer/" },
+  {
+    "emoji": "⛱️",
+    "emojiName": "Umbrella on Ground",
+    "innerURL": "/umbrella-on-ground/"
+  },
+  { "emoji": "🧨", "emojiName": "Firecracker", "innerURL": "/firecracker/" },
+  { "emoji": "🎈", "emojiName": "Balloon", "innerURL": "/balloon/" },
+  { "emoji": "🎉", "emojiName": "Party Popper", "innerURL": "/party-popper/" },
+  {
+    "emoji": "🎊",
+    "emojiName": "Confetti Ball",
+    "innerURL": "/confetti-ball/"
+  },
+  {
+    "emoji": "🎎",
+    "emojiName": "Japanese Dolls",
+    "innerURL": "/japanese-dolls/"
+  },
+  {
+    "emoji": "🎏",
+    "emojiName": "Carp Streamer",
+    "innerURL": "/carp-streamer/"
+  },
+  { "emoji": "🎐", "emojiName": "Wind Chime", "innerURL": "/wind-chime/" },
+  { "emoji": "🧧", "emojiName": "Red Envelope", "innerURL": "/red-envelope/" },
+  { "emoji": "🎀", "emojiName": "Ribbon", "innerURL": "/ribbon/" },
+  { "emoji": "🎁", "emojiName": "Wrapped Gift", "innerURL": "/wrapped-gift/" },
+  { "emoji": "🤿", "emojiName": "Diving Mask", "innerURL": "/diving-mask/" },
+  { "emoji": "🪀", "emojiName": "Yo-Yo", "innerURL": "/yo-yo/" },
+  { "emoji": "🪁", "emojiName": "Kite", "innerURL": "/kite/" },
+  { "emoji": "🔮", "emojiName": "Crystal Ball", "innerURL": "/crystal-ball/" },
+  { "emoji": "🪄", "emojiName": "Magic Wand", "innerURL": "/magic-wand/" },
+  { "emoji": "🧿", "emojiName": "Nazar Amulet", "innerURL": "/nazar-amulet/" },
+  { "emoji": "🪬", "emojiName": "Hamsa", "innerURL": "/hamsa/" },
+  { "emoji": "🕹️", "emojiName": " Joystick", "innerURL": "/joystick/" },
+  { "emoji": "🧸", "emojiName": "Teddy Bear", "innerURL": "/teddy-bear/" },
+  { "emoji": "🪅", "emojiName": "Piñata", "innerURL": "/pinata/" },
+  { "emoji": "🪆", "emojiName": "Nesting Dolls", "innerURL": "/nesting-dolls/" },
+  {
+    "emoji": "🖼️",
+    "emojiName": " Framed Picture",
+    "innerURL": "/framed-picture/"
+  },
+  { "emoji": "🧵", "emojiName": "Thread", "innerURL": "/thread/" },
+  { "emoji": "🪡", "emojiName": "Sewing Needle", "innerURL": "/sewing-needle/" },
+  { "emoji": "🧶", "emojiName": "Yarn", "innerURL": "/yarn/" },
+  { "emoji": "🪢", "emojiName": "Knot", "innerURL": "/knot/" },
+  {
+    "emoji": "🛍️",
+    "emojiName": " Shopping Bags",
+    "innerURL": "/shopping-bags/"
+  },
+  { "emoji": "📿", "emojiName": "Prayer Beads", "innerURL": "/prayer-beads/" },
+  { "emoji": "💎", "emojiName": "Gem Stone", "innerURL": "/gem-stone/" },
+  { "emoji": "📯", "emojiName": "Postal Horn", "innerURL": "/postal-horn/" },
+  {
+    "emoji": "🎙️",
+    "emojiName": " Studio Microphone",
+    "innerURL": "/studio-microphone/"
+  },
+  { "emoji": "🎚️", "emojiName": " Level Slider", "innerURL": "/level-slider/" },
+  {
+    "emoji": "🎛️",
+    "emojiName": " Control Knobs",
+    "innerURL": "/control-knobs/"
+  },
+  { "emoji": "📻", "emojiName": "Radio", "innerURL": "/radio/" },
+  { "emoji": "🪕", "emojiName": "Banjo", "innerURL": "/banjo/" },
+  { "emoji": "📱", "emojiName": "Mobile Phone", "innerURL": "/mobile-phone/" },
+  {
+    "emoji": "📲",
+    "emojiName": "Mobile Phone with Arrow",
+    "innerURL": "/mobile-phone-with-arrow/"
+  },
+  { "emoji": "☎️", "emojiName": "Telephone", "innerURL": "/telephone/" },
+  {
+    "emoji": "📞",
+    "emojiName": "Telephone Receiver",
+    "innerURL": "/telephone-receiver/"
+  },
+  { "emoji": "📟", "emojiName": "Pager", "innerURL": "/pager/" },
+  { "emoji": "📠", "emojiName": "Fax Machine", "innerURL": "/fax-machine/" },
+  { "emoji": "🔋", "emojiName": "Battery", "innerURL": "/battery/" },
+  {
+    "emoji": "🔌",
+    "emojiName": "Electric Plug",
+    "innerURL": "/electric-plug/"
+  },
+  { "emoji": "💻", "emojiName": "Laptop", "innerURL": "/laptop/" },
+  {
+    "emoji": "🖥️",
+    "emojiName": " Desktop Computer",
+    "innerURL": "/desktop-computer/"
+  },
+  { "emoji": "🖨️", "emojiName": " Printer", "innerURL": "/printer/" },
+  { "emoji": "⌨️", "emojiName": "Keyboard", "innerURL": "/keyboard/" },
+  {
+    "emoji": "🖱️",
+    "emojiName": " Computer Mouse",
+    "innerURL": "/computer-mouse/"
+  },
+  { "emoji": "🖲️", "emojiName": " Trackball", "innerURL": "/trackball/" },
+  {
+    "emoji": "💽",
+    "emojiName": "Computer Disk",
+    "innerURL": "/computer-disk/"
+  },
+  { "emoji": "💾", "emojiName": "Floppy Disk", "innerURL": "/floppy-disk/" },
+  { "emoji": "💿", "emojiName": "Optical Disk", "innerURL": "/optical-disk/" },
+  { "emoji": "📀", "emojiName": "DVD", "innerURL": "/dvd/" },
+  { "emoji": "🧮", "emojiName": "Abacus", "innerURL": "/abacus/" },
+  { "emoji": "🎥", "emojiName": "Movie Camera", "innerURL": "/movie-camera/" },
+  { "emoji": "🎞️", "emojiName": " Film Frames", "innerURL": "/film-frames/" },
+  {
+    "emoji": "📽️",
+    "emojiName": " Film Projector",
+    "innerURL": "/film-projector/"
+  },
+  { "emoji": "📺", "emojiName": "Television", "innerURL": "/television/" },
+  { "emoji": "📷", "emojiName": "Camera", "innerURL": "/camera/" },
+  {
+    "emoji": "📸",
+    "emojiName": "Camera with Flash",
+    "innerURL": "/camera-with-flash/"
+  },
+  { "emoji": "📹", "emojiName": "Video Camera", "innerURL": "/video-camera/" },
+  {
+    "emoji": "📼",
+    "emojiName": "Videocassette",
+    "innerURL": "/videocassette/"
+  },
+  {
+    "emoji": "🔍",
+    "emojiName": "Magnifying Glass Tilted Left",
+    "innerURL": "/magnifying-glass-tilted-left/"
+  },
+  {
+    "emoji": "🔎",
+    "emojiName": "Magnifying Glass Tilted Right",
+    "innerURL": "/magnifying-glass-tilted-right/"
+  },
+  { "emoji": "🕯️", "emojiName": " Candle", "innerURL": "/candle/" },
+  { "emoji": "💡", "emojiName": "Light Bulb", "innerURL": "/light-bulb/" },
+  { "emoji": "🔦", "emojiName": "Flashlight", "innerURL": "/flashlight/" },
+  {
+    "emoji": "🏮",
+    "emojiName": "Red Paper Lantern",
+    "innerURL": "/red-paper-lantern/"
+  },
+  { "emoji": "🪔", "emojiName": "Diya Lamp", "innerURL": "/diya-lamp/" },
+  {
+    "emoji": "📔",
+    "emojiName": "Notebook with Decorative Cover",
+    "innerURL": "/notebook-with-decorative-cover/"
+  },
+  { "emoji": "📕", "emojiName": "Closed Book", "innerURL": "/closed-book/" },
+  { "emoji": "📖", "emojiName": "Open Book", "innerURL": "/open-book/" },
+  { "emoji": "📗", "emojiName": "Green Book", "innerURL": "/green-book/" },
+  { "emoji": "📘", "emojiName": "Blue Book", "innerURL": "/blue-book/" },
+  { "emoji": "📙", "emojiName": "Orange Book", "innerURL": "/orange-book/" },
+  { "emoji": "📚", "emojiName": "Books", "innerURL": "/books/" },
+  { "emoji": "📓", "emojiName": "Notebook", "innerURL": "/notebook/" },
+  { "emoji": "📒", "emojiName": "Ledger", "innerURL": "/ledger/" },
+  {
+    "emoji": "📃",
+    "emojiName": "Page with Curl",
+    "innerURL": "/page-with-curl/"
+  },
+  { "emoji": "📜", "emojiName": "Scroll", "innerURL": "/scroll/" },
+  {
+    "emoji": "📄",
+    "emojiName": "Page Facing Up",
+    "innerURL": "/page-facing-up/"
+  },
+  { "emoji": "📰", "emojiName": "Newspaper", "innerURL": "/newspaper/" },
+  {
+    "emoji": "🗞️",
+    "emojiName": " Rolled-Up Newspaper",
+    "innerURL": "/rolled-up-newspaper/"
+  },
+  {
+    "emoji": "📑",
+    "emojiName": "Bookmark Tabs",
+    "innerURL": "/bookmark-tabs/"
+  },
+  { "emoji": "🔖", "emojiName": "Bookmark", "innerURL": "/bookmark/" },
+  { "emoji": "🏷️", "emojiName": " Label", "innerURL": "/label/" },
+  { "emoji": "💰", "emojiName": "Money Bag", "innerURL": "/money-bag/" },
+  { "emoji": "🪙", "emojiName": "Coin", "innerURL": "/coin/" },
+  { "emoji": "💴", "emojiName": "Yen Banknote", "innerURL": "/yen-banknote/" },
+  {
+    "emoji": "💵",
+    "emojiName": "Dollar Banknote",
+    "innerURL": "/dollar-banknote/"
+  },
+  {
+    "emoji": "💶",
+    "emojiName": "Euro Banknote",
+    "innerURL": "/euro-banknote/"
+  },
+  {
+    "emoji": "💷",
+    "emojiName": "Pound Banknote",
+    "innerURL": "/pound-banknote/"
+  },
+  {
+    "emoji": "💸",
+    "emojiName": "Money with Wings",
+    "innerURL": "/money-with-wings/"
+  },
+  { "emoji": "💳", "emojiName": "Credit Card", "innerURL": "/credit-card/" },
+  { "emoji": "🧾", "emojiName": "Receipt", "innerURL": "/receipt/" },
+  { "emoji": "✉️", "emojiName": "Envelope", "innerURL": "/envelope/" },
+  { "emoji": "📧", "emojiName": "E-Mail", "innerURL": "/e-mail/" },
+  {
+    "emoji": "📨",
+    "emojiName": "Incoming Envelope",
+    "innerURL": "/incoming-envelope/"
+  },
+  {
+    "emoji": "📩",
+    "emojiName": "Envelope with Arrow",
+    "innerURL": "/envelope-with-arrow/"
+  },
+  { "emoji": "📤", "emojiName": "Outbox Tray", "innerURL": "/outbox-tray/" },
+  { "emoji": "📥", "emojiName": "Inbox Tray", "innerURL": "/inbox-tray/" },
+  { "emoji": "📦", "emojiName": "Package", "innerURL": "/package/" },
+  {
+    "emoji": "📫",
+    "emojiName": "Closed Mailbox with Raised Flag",
+    "innerURL": "/closed-mailbox-with-raised-flag/"
+  },
+  {
+    "emoji": "📪",
+    "emojiName": "Closed Mailbox with Lowered Flag",
+    "innerURL": "/closed-mailbox-with-lowered-flag/"
+  },
+  {
+    "emoji": "📬",
+    "emojiName": "Open Mailbox with Raised Flag",
+    "innerURL": "/open-mailbox-with-raised-flag/"
+  },
+  {
+    "emoji": "📭",
+    "emojiName": "Open Mailbox with Lowered Flag",
+    "innerURL": "/open-mailbox-with-lowered-flag/"
+  },
+  { "emoji": "📮", "emojiName": "Postbox", "innerURL": "/postbox/" },
+  {
+    "emoji": "🗳️",
+    "emojiName": " Ballot Box with Ballot",
+    "innerURL": "/ballot-box-with-ballot/"
+  },
+  { "emoji": "✏️", "emojiName": "Pencil", "innerURL": "/pencil/" },
+  { "emoji": "✒️", "emojiName": "Black Nib", "innerURL": "/black-nib/" },
+  { "emoji": "🖋️", "emojiName": " Fountain Pen", "innerURL": "/fountain-pen/" },
+  { "emoji": "🖊️", "emojiName": " Pen", "innerURL": "/pen/" },
+  { "emoji": "🖌️", "emojiName": " Paintbrush", "innerURL": "/paintbrush/" },
+  { "emoji": "🖍️", "emojiName": " Crayon", "innerURL": "/crayon/" },
+  { "emoji": "📝", "emojiName": "Memo", "innerURL": "/memo/" },
+  { "emoji": "📁", "emojiName": "File Folder", "innerURL": "/file-folder/" },
+  {
+    "emoji": "📂",
+    "emojiName": "Open File Folder",
+    "innerURL": "/open-file-folder/"
+  },
+  {
+    "emoji": "🗂️",
+    "emojiName": " Card Index Dividers",
+    "innerURL": "/card-index-dividers/"
+  },
+  { "emoji": "📅", "emojiName": "Calendar", "innerURL": "/calendar/" },
+  {
+    "emoji": "📆",
+    "emojiName": "Tear-Off Calendar",
+    "innerURL": "/tear-off-calendar/"
+  },
+  {
+    "emoji": "🗒️",
+    "emojiName": " Spiral Notepad",
+    "innerURL": "/spiral-notepad/"
+  },
+  {
+    "emoji": "🗓️",
+    "emojiName": " Spiral Calendar",
+    "innerURL": "/spiral-calendar/"
+  },
+  { "emoji": "📇", "emojiName": "Card Index", "innerURL": "/card-index/" },
+  {
+    "emoji": "📈",
+    "emojiName": "Chart Increasing",
+    "innerURL": "/chart-increasing/"
+  },
+  {
+    "emoji": "📉",
+    "emojiName": "Chart Decreasing",
+    "innerURL": "/chart-decreasing/"
+  },
+  { "emoji": "📊", "emojiName": "Bar Chart", "innerURL": "/bar-chart/" },
+  { "emoji": "📋", "emojiName": "Clipboard", "innerURL": "/clipboard/" },
+  { "emoji": "📌", "emojiName": "Pushpin", "innerURL": "/pushpin/" },
+  {
+    "emoji": "📍",
+    "emojiName": "Round Pushpin",
+    "innerURL": "/round-pushpin/"
+  },
+  { "emoji": "📎", "emojiName": "Paperclip", "innerURL": "/paperclip/" },
+  {
+    "emoji": "🖇️",
+    "emojiName": " Linked Paperclips",
+    "innerURL": "/linked-paperclips/"
+  },
+  {
+    "emoji": "📏",
+    "emojiName": "Straight Ruler",
+    "innerURL": "/straight-ruler/"
+  },
+  {
+    "emoji": "📐",
+    "emojiName": "Triangular Ruler",
+    "innerURL": "/triangular-ruler/"
+  },
+  { "emoji": "✂️", "emojiName": "Scissors", "innerURL": "/scissors/" },
+  {
+    "emoji": "🗃️",
+    "emojiName": " Card File Box",
+    "innerURL": "/card-file-box/"
+  },
+  { "emoji": "🗄️", "emojiName": " File Cabinet", "innerURL": "/file-cabinet/" },
+  { "emoji": "🗑️", "emojiName": " Wastebasket", "innerURL": "/wastebasket/" },
+  { "emoji": "🔒", "emojiName": "Locked", "innerURL": "/locked/" },
+  { "emoji": "🔓", "emojiName": "Unlocked", "innerURL": "/unlocked/" },
+  {
+    "emoji": "🔏",
+    "emojiName": "Locked with Pen",
+    "innerURL": "/locked-with-pen/"
+  },
+  {
+    "emoji": "🔐",
+    "emojiName": "Locked with Key",
+    "innerURL": "/locked-with-key/"
+  },
+  { "emoji": "🔑", "emojiName": "Key", "innerURL": "/key/" },
+  { "emoji": "🗝️", "emojiName": " Old Key", "innerURL": "/old-key/" },
+  { "emoji": "🔨", "emojiName": "Hammer", "innerURL": "/hammer/" },
+  { "emoji": "🪓", "emojiName": "Axe", "innerURL": "/axe/" },
+  { "emoji": "⛏️", "emojiName": "Pick", "innerURL": "/pick/" },
+  {
+    "emoji": "⚒️",
+    "emojiName": "Hammer and Pick",
+    "innerURL": "/hammer-and-pick/"
+  },
+  {
+    "emoji": "🛠️",
+    "emojiName": " Hammer and Wrench",
+    "innerURL": "/hammer-and-wrench/"
+  },
+  { "emoji": "🗡️", "emojiName": " Dagger", "innerURL": "/dagger/" },
+  {
+    "emoji": "⚔️",
+    "emojiName": "Crossed Swords",
+    "innerURL": "/crossed-swords/"
+  },
+  { "emoji": "🔫", "emojiName": "Water Pistol", "innerURL": "/pistol/" },
+  { "emoji": "🪃", "emojiName": "Boomerang", "innerURL": "/boomerang/" },
+  { "emoji": "🛡️", "emojiName": " Shield", "innerURL": "/shield/" },
+  { "emoji": "🪚", "emojiName": "Carpentry Saw", "innerURL": "/carpentry-saw/" },
+  { "emoji": "🔧", "emojiName": "Wrench", "innerURL": "/wrench/" },
+  { "emoji": "🪛", "emojiName": "Screwdriver", "innerURL": "/screwdriver/" },
+  { "emoji": "🔩", "emojiName": "Nut and Bolt", "innerURL": "/nut-and-bolt/" },
+  { "emoji": "⚙️", "emojiName": "Gear", "innerURL": "/gear/" },
+  { "emoji": "🗜️", "emojiName": " Clamp", "innerURL": "/clamp/" },
+  {
+    "emoji": "⚖️",
+    "emojiName": "Balance Scale",
+    "innerURL": "/balance-scale/"
+  },
+  { "emoji": "🦯", "emojiName": "White Cane", "innerURL": "/white-cane/" },
+  { "emoji": "🔗", "emojiName": "Link", "innerURL": "/link/" },
+  { "emoji": "⛓️", "emojiName": "Chains", "innerURL": "/chains/" },
+  { "emoji": "🪝", "emojiName": "Hook", "innerURL": "/hook/" },
+  { "emoji": "🧰", "emojiName": "Toolbox", "innerURL": "/toolbox/" },
+  { "emoji": "🧲", "emojiName": "Magnet", "innerURL": "/magnet/" },
+  { "emoji": "🪜", "emojiName": "Ladder", "innerURL": "/ladder/" },
+  { "emoji": "⚗️", "emojiName": "Alembic", "innerURL": "/alembic/" },
+  { "emoji": "🧪", "emojiName": "Test Tube", "innerURL": "/test-tube/" },
+  { "emoji": "🧫", "emojiName": "Petri Dish", "innerURL": "/petri-dish/" },
+  { "emoji": "🧬", "emojiName": "DNA", "innerURL": "/dna/" },
+  { "emoji": "🔬", "emojiName": "Microscope", "innerURL": "/microscope/" },
+  { "emoji": "🔭", "emojiName": "Telescope", "innerURL": "/telescope/" },
+  {
+    "emoji": "📡",
+    "emojiName": "Satellite Antenna",
+    "innerURL": "/satellite-antenna/"
+  },
+  { "emoji": "💉", "emojiName": "Syringe", "innerURL": "/syringe/" },
+  {
+    "emoji": "🩸",
+    "emojiName": "Drop of Blood",
+    "innerURL": "/drop-of-blood/"
+  },
+  { "emoji": "💊", "emojiName": "Pill", "innerURL": "/pill/" },
+  {
+    "emoji": "🩹",
+    "emojiName": "Adhesive Bandage",
+    "innerURL": "/adhesive-bandage/"
+  },
+  { "emoji": "🩼", "emojiName": "Crutch", "innerURL": "/crutch/" },
+  { "emoji": "🩺", "emojiName": "Stethoscope", "innerURL": "/stethoscope/" },
+  { "emoji": "🚪", "emojiName": "Door", "innerURL": "/door/" },
+  { "emoji": "🪞", "emojiName": "Mirror", "innerURL": "/mirror/" },
+  { "emoji": "🪟", "emojiName": "Window", "innerURL": "/window/" },
+  { "emoji": "🛏️", "emojiName": " Bed", "innerURL": "/bed/" },
+  {
+    "emoji": "🛋️",
+    "emojiName": " Couch and Lamp",
+    "innerURL": "/couch-and-lamp/"
+  },
+  { "emoji": "🪑", "emojiName": "Chair", "innerURL": "/chair/" },
+  { "emoji": "🚽", "emojiName": "Toilet", "innerURL": "/toilet/" },
+  { "emoji": "🪠", "emojiName": "Plunger", "innerURL": "/plunger/" },
+  { "emoji": "🚿", "emojiName": "Shower", "innerURL": "/shower/" },
+  { "emoji": "🛁", "emojiName": "Bathtub", "innerURL": "/bathtub/" },
+  { "emoji": "🪤", "emojiName": "Mouse Trap", "innerURL": "/mouse-trap/" },
+  { "emoji": "🪒", "emojiName": "Razor", "innerURL": "/razor/" },
+  {
+    "emoji": "🧴",
+    "emojiName": "Lotion Bottle",
+    "innerURL": "/lotion-bottle/"
+  },
+  { "emoji": "🧷", "emojiName": "Safety Pin", "innerURL": "/safety-pin/" },
+  { "emoji": "🧹", "emojiName": "Broom", "innerURL": "/broom/" },
+  { "emoji": "🧺", "emojiName": "Basket", "innerURL": "/basket/" },
+  {
+    "emoji": "🧻",
+    "emojiName": "Roll of Paper",
+    "innerURL": "/roll-of-paper/"
+  },
+  { "emoji": "🪣", "emojiName": "Bucket", "innerURL": "/bucket/" },
+  { "emoji": "🧼", "emojiName": "Soap", "innerURL": "/soap/" },
+  { "emoji": "🪥", "emojiName": "Toothbrush", "innerURL": "/toothbrush/" },
+  { "emoji": "🧽", "emojiName": "Sponge", "innerURL": "/sponge/" },
+  {
+    "emoji": "🧯",
+    "emojiName": "Fire Extinguisher",
+    "innerURL": "/fire-extinguisher/"
+  },
+  {
+    "emoji": "🛒",
+    "emojiName": "Shopping Cart",
+    "innerURL": "/shopping-cart/"
+  },
+  { "emoji": "🚬", "emojiName": "Cigarette", "innerURL": "/cigarette/" },
+  { "emoji": "⚰️", "emojiName": "Coffin", "innerURL": "/coffin/" },
+  { "emoji": "🪦", "emojiName": "Headstone", "innerURL": "/headstone/" },
+  { "emoji": "⚱️", "emojiName": "Funeral Urn", "innerURL": "/funeral-urn/" },
+  { "emoji": "🗿", "emojiName": "Moai", "innerURL": "/moai/" },
+  { "emoji": "🪧", "emojiName": "Placard", "innerURL": "/placard/" },
+  {
+    "emoji": "🪪",
+    "emojiName": "Identification Card",
+    "innerURL": "/identification-card/"
+  },
+  { "emoji": "🚰", "emojiName": "Potable Water", "innerURL": "/potable-water/" }
+]

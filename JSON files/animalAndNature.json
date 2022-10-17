@@ -1,0 +1,406 @@
+[
+  {
+    "emoji": "🙈",
+    "emojiName": "See-No-Evil Monkey",
+    "innerURL": "/see-no-evil-monkey/"
+  },
+  {
+    "emoji": "🙉",
+    "emojiName": "Hear-No-Evil Monkey",
+    "innerURL": "/hear-no-evil-monkey/"
+  },
+  {
+    "emoji": "🙊",
+    "emojiName": "Speak-No-Evil Monkey",
+    "innerURL": "/speak-no-evil-monkey/"
+  },
+  { "emoji": "💥", "emojiName": "Collision", "innerURL": "/collision/" },
+  { "emoji": "💫", "emojiName": "Dizzy", "innerURL": "/dizzy/" },
+  {
+    "emoji": "💦",
+    "emojiName": "Sweat Droplets",
+    "innerURL": "/sweat-droplets/"
+  },
+  { "emoji": "💨", "emojiName": "Dashing Away", "innerURL": "/dashing-away/" },
+  { "emoji": "🐵", "emojiName": "Monkey Face", "innerURL": "/monkey-face/" },
+  { "emoji": "🐒", "emojiName": "Monkey", "innerURL": "/monkey/" },
+  { "emoji": "🦍", "emojiName": "Gorilla", "innerURL": "/gorilla/" },
+  { "emoji": "🦧", "emojiName": "Orangutan", "innerURL": "/orangutan/" },
+  { "emoji": "🐶", "emojiName": "Dog Face", "innerURL": "/dog-face/" },
+  { "emoji": "🐕", "emojiName": "Dog", "innerURL": "/dog/" },
+  { "emoji": "🦮", "emojiName": "Guide Dog", "innerURL": "/guide-dog/" },
+  { "emoji": "🐕‍🦺", "emojiName": "🦺 Service Dog", "innerURL": "/service-dog/" },
+  { "emoji": "🐩", "emojiName": "Poodle", "innerURL": "/poodle/" },
+  { "emoji": "🐺", "emojiName": "Wolf", "innerURL": "/wolf/" },
+  { "emoji": "🦊", "emojiName": "Fox", "innerURL": "/fox/" },
+  { "emoji": "🦝", "emojiName": "Raccoon", "innerURL": "/raccoon/" },
+  { "emoji": "🐱", "emojiName": "Cat Face", "innerURL": "/cat-face/" },
+  { "emoji": "🐈", "emojiName": "Cat", "innerURL": "/cat/" },
+  { "emoji": "🐈‍⬛", "emojiName": "⬛ Black Cat", "innerURL": "/black-cat/" },
+  { "emoji": "🦁", "emojiName": "Lion", "innerURL": "/lion/" },
+  { "emoji": "🐯", "emojiName": "Tiger Face", "innerURL": "/tiger-face/" },
+  { "emoji": "🐅", "emojiName": "Tiger", "innerURL": "/tiger/" },
+  { "emoji": "🐆", "emojiName": "Leopard", "innerURL": "/leopard/" },
+  { "emoji": "🐴", "emojiName": "Horse Face", "innerURL": "/horse-face/" },
+  { "emoji": "🐎", "emojiName": "Horse", "innerURL": "/horse/" },
+  { "emoji": "🦄", "emojiName": "Unicorn", "innerURL": "/unicorn/" },
+  { "emoji": "🦓", "emojiName": "Zebra", "innerURL": "/zebra/" },
+  { "emoji": "🦌", "emojiName": "Deer", "innerURL": "/deer/" },
+  { "emoji": "🦬", "emojiName": "Bison", "innerURL": "/bison/" },
+  { "emoji": "🐮", "emojiName": "Cow Face", "innerURL": "/cow-face/" },
+  { "emoji": "🐂", "emojiName": "Ox", "innerURL": "/ox/" },
+  {
+    "emoji": "🐃",
+    "emojiName": "Water Buffalo",
+    "innerURL": "/water-buffalo/"
+  },
+  { "emoji": "🐄", "emojiName": "Cow", "innerURL": "/cow/" },
+  { "emoji": "🐷", "emojiName": "Pig Face", "innerURL": "/pig-face/" },
+  { "emoji": "🐖", "emojiName": "Pig", "innerURL": "/pig/" },
+  { "emoji": "🐗", "emojiName": "Boar", "innerURL": "/boar/" },
+  { "emoji": "🐽", "emojiName": "Pig Nose", "innerURL": "/pig-nose/" },
+  { "emoji": "🐏", "emojiName": "Ram", "innerURL": "/ram/" },
+  { "emoji": "🐑", "emojiName": "Ewe", "innerURL": "/ewe/" },
+  { "emoji": "🐐", "emojiName": "Goat", "innerURL": "/goat/" },
+  { "emoji": "🐪", "emojiName": "Camel", "innerURL": "/camel/" },
+  {
+    "emoji": "🐫",
+    "emojiName": "Two-Hump Camel",
+    "innerURL": "/two-hump-camel/"
+  },
+  { "emoji": "🦙", "emojiName": "Llama", "innerURL": "/llama/" },
+  { "emoji": "🦒", "emojiName": "Giraffe", "innerURL": "/giraffe/" },
+  { "emoji": "🐘", "emojiName": "Elephant", "innerURL": "/elephant/" },
+  { "emoji": "🦣", "emojiName": "Mammoth", "innerURL": "/mammoth/" },
+  { "emoji": "🦏", "emojiName": "Rhinoceros", "innerURL": "/rhinoceros/" },
+  { "emoji": "🦛", "emojiName": "Hippopotamus", "innerURL": "/hippopotamus/" },
+  { "emoji": "🐭", "emojiName": "Mouse Face", "innerURL": "/mouse-face/" },
+  { "emoji": "🐁", "emojiName": "Mouse", "innerURL": "/mouse/" },
+  { "emoji": "🐀", "emojiName": "Rat", "innerURL": "/rat/" },
+  { "emoji": "🐹", "emojiName": "Hamster", "innerURL": "/hamster/" },
+  { "emoji": "🐰", "emojiName": "Rabbit Face", "innerURL": "/rabbit-face/" },
+  { "emoji": "🐇", "emojiName": "Rabbit", "innerURL": "/rabbit/" },
+  { "emoji": "🐿️", "emojiName": " Chipmunk", "innerURL": "/chipmunk/" },
+  { "emoji": "🦫", "emojiName": "Beaver", "innerURL": "/beaver/" },
+  { "emoji": "🦔", "emojiName": "Hedgehog", "innerURL": "/hedgehog/" },
+  { "emoji": "🦇", "emojiName": "Bat", "innerURL": "/bat/" },
+  { "emoji": "🐻", "emojiName": "Bear", "innerURL": "/bear/" },
+  {
+    "emoji": "🐻‍❄️",
+    "emojiName": "❄️ Polar Bear",
+    "innerURL": "/polar-bear/"
+  },
+  { "emoji": "🐨", "emojiName": "Koala", "innerURL": "/koala/" },
+  { "emoji": "🐼", "emojiName": "Panda", "innerURL": "/panda/" },
+  { "emoji": "🦥", "emojiName": "Sloth", "innerURL": "/sloth/" },
+  { "emoji": "🦦", "emojiName": "Otter", "innerURL": "/otter/" },
+  { "emoji": "🦨", "emojiName": "Skunk", "innerURL": "/skunk/" },
+  { "emoji": "🦘", "emojiName": "Kangaroo", "innerURL": "/kangaroo/" },
+  { "emoji": "🦡", "emojiName": "Badger", "innerURL": "/badger/" },
+  { "emoji": "🐾", "emojiName": "Paw Prints", "innerURL": "/paw-prints/" },
+  { "emoji": "🦃", "emojiName": "Turkey", "innerURL": "/turkey/" },
+  { "emoji": "🐔", "emojiName": "Chicken", "innerURL": "/chicken/" },
+  { "emoji": "🐓", "emojiName": "Rooster", "innerURL": "/rooster/" },
+  {
+    "emoji": "🐣",
+    "emojiName": "Hatching Chick",
+    "innerURL": "/hatching-chick/"
+  },
+  { "emoji": "🐤", "emojiName": "Baby Chick", "innerURL": "/baby-chick/" },
+  {
+    "emoji": "🐥",
+    "emojiName": "Front-Facing Baby Chick",
+    "innerURL": "/front-facing-baby-chick/"
+  },
+  { "emoji": "🐦", "emojiName": "Bird", "innerURL": "/bird/" },
+  { "emoji": "🐧", "emojiName": "Penguin", "innerURL": "/penguin/" },
+  { "emoji": "🕊️", "emojiName": " Dove", "innerURL": "/dove/" },
+  { "emoji": "🦅", "emojiName": "Eagle", "innerURL": "/eagle/" },
+  { "emoji": "🦆", "emojiName": "Duck", "innerURL": "/duck/" },
+  { "emoji": "🦢", "emojiName": "Swan", "innerURL": "/swan/" },
+  { "emoji": "🦉", "emojiName": "Owl", "innerURL": "/owl/" },
+  { "emoji": "🦤", "emojiName": "Dodo", "innerURL": "/dodo/" },
+  { "emoji": "🪶", "emojiName": "Feather", "innerURL": "/feather/" },
+  { "emoji": "🦩", "emojiName": "Flamingo", "innerURL": "/flamingo/" },
+  { "emoji": "🦚", "emojiName": "Peacock", "innerURL": "/peacock/" },
+  { "emoji": "🦜", "emojiName": "Parrot", "innerURL": "/parrot/" },
+  { "emoji": "🐸", "emojiName": "Frog", "innerURL": "/frog/" },
+  { "emoji": "🐊", "emojiName": "Crocodile", "innerURL": "/crocodile/" },
+  { "emoji": "🐢", "emojiName": "Turtle", "innerURL": "/turtle/" },
+  { "emoji": "🦎", "emojiName": "Lizard", "innerURL": "/lizard/" },
+  { "emoji": "🐍", "emojiName": "Snake", "innerURL": "/snake/" },
+  { "emoji": "🐲", "emojiName": "Dragon Face", "innerURL": "/dragon-face/" },
+  { "emoji": "🐉", "emojiName": "Dragon", "innerURL": "/dragon/" },
+  { "emoji": "🦕", "emojiName": "Sauropod", "innerURL": "/sauropod/" },
+  { "emoji": "🦖", "emojiName": "T-Rex", "innerURL": "/t-rex/" },
+  {
+    "emoji": "🐳",
+    "emojiName": "Spouting Whale",
+    "innerURL": "/spouting-whale/"
+  },
+  { "emoji": "🐋", "emojiName": "Whale", "innerURL": "/whale/" },
+  { "emoji": "🐬", "emojiName": "Dolphin", "innerURL": "/dolphin/" },
+  { "emoji": "🦭", "emojiName": "Seal", "innerURL": "/seal/" },
+  { "emoji": "🐟", "emojiName": "Fish", "innerURL": "/fish/" },
+  {
+    "emoji": "🐠",
+    "emojiName": "Tropical Fish",
+    "innerURL": "/tropical-fish/"
+  },
+  { "emoji": "🐡", "emojiName": "Blowfish", "innerURL": "/blowfish/" },
+  { "emoji": "🦈", "emojiName": "Shark", "innerURL": "/shark/" },
+  { "emoji": "🐙", "emojiName": "Octopus", "innerURL": "/octopus/" },
+  { "emoji": "🐚", "emojiName": "Spiral Shell", "innerURL": "/spiral-shell/" },
+  { "emoji": "🪸", "emojiName": "Coral", "innerURL": "/coral/" },
+  { "emoji": "🐌", "emojiName": "Snail", "innerURL": "/snail/" },
+  { "emoji": "🦋", "emojiName": "Butterfly", "innerURL": "/butterfly/" },
+  { "emoji": "🐛", "emojiName": "Bug", "innerURL": "/bug/" },
+  { "emoji": "🐜", "emojiName": "Ant", "innerURL": "/ant/" },
+  { "emoji": "🐝", "emojiName": "Honeybee", "innerURL": "/honeybee/" },
+  { "emoji": "🪲", "emojiName": "Beetle", "innerURL": "/beetle/" },
+  { "emoji": "🐞", "emojiName": "Lady Beetle", "innerURL": "/lady-beetle/" },
+  { "emoji": "🦗", "emojiName": "Cricket", "innerURL": "/cricket/" },
+  { "emoji": "🪳", "emojiName": "Cockroach", "innerURL": "/cockroach/" },
+  { "emoji": "🕷️", "emojiName": " Spider", "innerURL": "/spider/" },
+  { "emoji": "🕸️", "emojiName": " Spider Web", "innerURL": "/spider-web/" },
+  { "emoji": "🦂", "emojiName": "Scorpion", "innerURL": "/scorpion/" },
+  { "emoji": "🦟", "emojiName": "Mosquito", "innerURL": "/mosquito/" },
+  { "emoji": "🪰", "emojiName": "Fly", "innerURL": "/fly/" },
+  { "emoji": "🪱", "emojiName": "Worm", "innerURL": "/worm/" },
+  { "emoji": "🦠", "emojiName": "Microbe", "innerURL": "/microbe/" },
+  { "emoji": "💐", "emojiName": "Bouquet", "innerURL": "/bouquet/" },
+  {
+    "emoji": "🌸",
+    "emojiName": "Cherry Blossom",
+    "innerURL": "/cherry-blossom/"
+  },
+  { "emoji": "💮", "emojiName": "White Flower", "innerURL": "/white-flower/" },
+  { "emoji": "🪷", "emojiName": "Lotus", "innerURL": "/lotus/" },
+  { "emoji": "🏵️", "emojiName": " Rosette", "innerURL": "/rosette/" },
+  { "emoji": "🌹", "emojiName": "Rose", "innerURL": "/rose/" },
+  {
+    "emoji": "🥀",
+    "emojiName": "Wilted Flower",
+    "innerURL": "/wilted-flower/"
+  },
+  { "emoji": "🌺", "emojiName": "Hibiscus", "innerURL": "/hibiscus/" },
+  { "emoji": "🌻", "emojiName": "Sunflower", "innerURL": "/sunflower/" },
+  { "emoji": "🌼", "emojiName": "Blossom", "innerURL": "/blossom/" },
+  { "emoji": "🌷", "emojiName": "Tulip", "innerURL": "/tulip/" },
+  { "emoji": "🌱", "emojiName": "Seedling", "innerURL": "/seedling/" },
+  { "emoji": "🪴", "emojiName": "Potted Plant", "innerURL": "/potted-plant/" },
+  {
+    "emoji": "🌲",
+    "emojiName": "Evergreen Tree",
+    "innerURL": "/evergreen-tree/"
+  },
+  {
+    "emoji": "🌳",
+    "emojiName": "Deciduous Tree",
+    "innerURL": "/deciduous-tree/"
+  },
+  { "emoji": "🌴", "emojiName": "Palm Tree", "innerURL": "/palm-tree/" },
+  { "emoji": "🌵", "emojiName": "Cactus", "innerURL": "/cactus/" },
+  {
+    "emoji": "🌾",
+    "emojiName": "Sheaf of Rice",
+    "innerURL": "/sheaf-of-rice/"
+  },
+  { "emoji": "🌿", "emojiName": "Herb", "innerURL": "/herb/" },
+  { "emoji": "☘️", "emojiName": "Shamrock", "innerURL": "/shamrock/" },
+  {
+    "emoji": "🍀",
+    "emojiName": "Four Leaf Clover",
+    "innerURL": "/four-leaf-clover/"
+  },
+  { "emoji": "🍁", "emojiName": "Maple Leaf", "innerURL": "/maple-leaf/" },
+  { "emoji": "🍂", "emojiName": "Fallen Leaf", "innerURL": "/fallen-leaf/" },
+  {
+    "emoji": "🍃",
+    "emojiName": "Leaf Fluttering in Wind",
+    "innerURL": "/leaf-fluttering-in-wind/"
+  },
+  { "emoji": "🪹", "emojiName": "Empty Nest", "innerURL": "/empty-nest/" },
+  {
+    "emoji": "🪺",
+    "emojiName": "Nest with Eggs",
+    "innerURL": "/nest-with-eggs/"
+  },
+  { "emoji": "🍄", "emojiName": "Mushroom", "innerURL": "/mushroom/" },
+  { "emoji": "🌰", "emojiName": "Chestnut", "innerURL": "/chestnut/" },
+  { "emoji": "🦀", "emojiName": "Crab", "innerURL": "/crab/" },
+  { "emoji": "🦞", "emojiName": "Lobster", "innerURL": "/lobster/" },
+  { "emoji": "🦐", "emojiName": "Shrimp", "innerURL": "/shrimp/" },
+  { "emoji": "🦑", "emojiName": "Squid", "innerURL": "/squid/" },
+  {
+    "emoji": "🌍",
+    "emojiName": "Globe Showing Europe-Africa",
+    "innerURL": "/globe-showing-europe-africa/"
+  },
+  {
+    "emoji": "🌎",
+    "emojiName": "Globe Showing Americas",
+    "innerURL": "/globe-showing-americas/"
+  },
+  {
+    "emoji": "🌏",
+    "emojiName": "Globe Showing Asia-Australia",
+    "innerURL": "/globe-showing-asia-australia/"
+  },
+  {
+    "emoji": "🌐",
+    "emojiName": "Globe with Meridians",
+    "innerURL": "/globe-with-meridians/"
+  },
+  { "emoji": "🪨", "emojiName": "Rock", "innerURL": "/rock/" },
+  { "emoji": "🌑", "emojiName": "New Moon", "innerURL": "/new-moon/" },
+  {
+    "emoji": "🌒",
+    "emojiName": "Waxing Crescent Moon",
+    "innerURL": "/waxing-crescent-moon/"
+  },
+  {
+    "emoji": "🌓",
+    "emojiName": "First Quarter Moon",
+    "innerURL": "/first-quarter-moon/"
+  },
+  {
+    "emoji": "🌔",
+    "emojiName": "Waxing Gibbous Moon",
+    "innerURL": "/waxing-gibbous-moon/"
+  },
+  { "emoji": "🌕", "emojiName": "Full Moon", "innerURL": "/full-moon/" },
+  {
+    "emoji": "🌖",
+    "emojiName": "Waning Gibbous Moon",
+    "innerURL": "/waning-gibbous-moon/"
+  },
+  {
+    "emoji": "🌗",
+    "emojiName": "Last Quarter Moon",
+    "innerURL": "/last-quarter-moon/"
+  },
+  {
+    "emoji": "🌘",
+    "emojiName": "Waning Crescent Moon",
+    "innerURL": "/waning-crescent-moon/"
+  },
+  {
+    "emoji": "🌙",
+    "emojiName": "Crescent Moon",
+    "innerURL": "/crescent-moon/"
+  },
+  {
+    "emoji": "🌚",
+    "emojiName": "New Moon Face",
+    "innerURL": "/new-moon-face/"
+  },
+  {
+    "emoji": "🌛",
+    "emojiName": "First Quarter Moon Face",
+    "innerURL": "/first-quarter-moon-face/"
+  },
+  {
+    "emoji": "🌜",
+    "emojiName": "Last Quarter Moon Face",
+    "innerURL": "/last-quarter-moon-face/"
+  },
+  { "emoji": "☀️", "emojiName": "Sun", "innerURL": "/sun/" },
+  {
+    "emoji": "🌝",
+    "emojiName": "Full Moon Face",
+    "innerURL": "/full-moon-face/"
+  },
+  {
+    "emoji": "🌞",
+    "emojiName": "Sun with Face",
+    "innerURL": "/sun-with-face/"
+  },
+  { "emoji": "⭐", "emojiName": "tar", "innerURL": "/star/" },
+  { "emoji": "🌟", "emojiName": "Glowing Star", "innerURL": "/glowing-star/" },
+  {
+    "emoji": "🌠",
+    "emojiName": "Shooting Star",
+    "innerURL": "/shooting-star/"
+  },
+  { "emoji": "☁️", "emojiName": "Cloud", "innerURL": "/cloud/" },
+  {
+    "emoji": "⛅",
+    "emojiName": "un Behind Cloud",
+    "innerURL": "/sun-behind-cloud/"
+  },
+  {
+    "emoji": "⛈️",
+    "emojiName": "Cloud with Lightning and Rain",
+    "innerURL": "/cloud-with-lightning-and-rain/"
+  },
+  {
+    "emoji": "🌤️",
+    "emojiName": " Sun Behind Small Cloud",
+    "innerURL": "/sun-behind-small-cloud/"
+  },
+  {
+    "emoji": "🌥️",
+    "emojiName": " Sun Behind Large Cloud",
+    "innerURL": "/sun-behind-large-cloud/"
+  },
+  {
+    "emoji": "🌦️",
+    "emojiName": " Sun Behind Rain Cloud",
+    "innerURL": "/sun-behind-rain-cloud/"
+  },
+  {
+    "emoji": "🌧️",
+    "emojiName": " Cloud with Rain",
+    "innerURL": "/cloud-with-rain/"
+  },
+  {
+    "emoji": "🌨️",
+    "emojiName": " Cloud with Snow",
+    "innerURL": "/cloud-with-snow/"
+  },
+  {
+    "emoji": "🌩️",
+    "emojiName": " Cloud with Lightning",
+    "innerURL": "/cloud-with-lightning/"
+  },
+  { "emoji": "🌪️", "emojiName": " Tornado", "innerURL": "/tornado/" },
+  { "emoji": "🌫️", "emojiName": " Fog", "innerURL": "/fog/" },
+  { "emoji": "🌬️", "emojiName": " Wind Face", "innerURL": "/wind-face/" },
+  { "emoji": "🌈", "emojiName": "Rainbow", "innerURL": "/rainbow/" },
+  { "emoji": "☂️", "emojiName": "Umbrella", "innerURL": "/umbrella/" },
+  {
+    "emoji": "☔",
+    "emojiName": "mbrella with Rain Drops",
+    "innerURL": "/umbrella-with-rain-drops/"
+  },
+  { "emoji": "⚡", "emojiName": "igh Voltage", "innerURL": "/high-voltage/" },
+  { "emoji": "❄️", "emojiName": "Snowflake", "innerURL": "/snowflake/" },
+  { "emoji": "☃️", "emojiName": "Snowman", "innerURL": "/snowman/" },
+  {
+    "emoji": "⛄",
+    "emojiName": "nowman Without Snow",
+    "innerURL": "/snowman-without-snow/"
+  },
+  { "emoji": "☄️", "emojiName": "Comet", "innerURL": "/comet/" },
+  { "emoji": "🔥", "emojiName": "Fire", "innerURL": "/fire/" },
+  { "emoji": "💧", "emojiName": "Droplet", "innerURL": "/droplet/" },
+  { "emoji": "🌊", "emojiName": "Water Wave", "innerURL": "/water-wave/" },
+  {
+    "emoji": "🎄",
+    "emojiName": "Christmas Tree",
+    "innerURL": "/christmas-tree/"
+  },
+  { "emoji": "✨", "emojiName": "parkles", "innerURL": "/sparkles/" },
+  {
+    "emoji": "🎋",
+    "emojiName": "Tanabata Tree",
+    "innerURL": "/tanabata-tree/"
+  },
+  {
+    "emoji": "🎍",
+    "emojiName": "Pine Decoration",
+    "innerURL": "/pine-decoration/"
+  },
+  { "emoji": "🫧", "emojiName": "Bubbles", "innerURL": "/bubbles/" }
+]

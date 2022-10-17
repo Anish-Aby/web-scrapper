@@ -1,0 +1,354 @@
+[
+  {
+    "emoji": "🚣",
+    "emojiName": "Person Rowing Boat",
+    "innerURL": "/person-rowing-boat/"
+  },
+  { "emoji": "🗾", "emojiName": "Map of Japan", "innerURL": "/map-of-japan/" },
+  {
+    "emoji": "🏔️",
+    "emojiName": " Snow-Capped Mountain",
+    "innerURL": "/snow-capped-mountain/"
+  },
+  { "emoji": "⛰️", "emojiName": "Mountain", "innerURL": "/mountain/" },
+  { "emoji": "🌋", "emojiName": "Volcano", "innerURL": "/volcano/" },
+  { "emoji": "🗻", "emojiName": "Mount Fuji", "innerURL": "/mount-fuji/" },
+  { "emoji": "🏕️", "emojiName": " Camping", "innerURL": "/camping/" },
+  {
+    "emoji": "🏖️",
+    "emojiName": " Beach with Umbrella",
+    "innerURL": "/beach-with-umbrella/"
+  },
+  { "emoji": "🏜️", "emojiName": " Desert", "innerURL": "/desert/" },
+  {
+    "emoji": "🏝️",
+    "emojiName": " Desert Island",
+    "innerURL": "/desert-island/"
+  },
+  {
+    "emoji": "🏞️",
+    "emojiName": " National Park",
+    "innerURL": "/national-park/"
+  },
+  { "emoji": "🏟️", "emojiName": " Stadium", "innerURL": "/stadium/" },
+  {
+    "emoji": "🏛️",
+    "emojiName": " Classical Building",
+    "innerURL": "/classical-building/"
+  },
+  {
+    "emoji": "🏗️",
+    "emojiName": " Building Construction",
+    "innerURL": "/building-construction/"
+  },
+  { "emoji": "🛖", "emojiName": "Hut", "innerURL": "/hut/" },
+  { "emoji": "🏘️", "emojiName": " Houses", "innerURL": "/houses/" },
+  {
+    "emoji": "🏚️",
+    "emojiName": " Derelict House",
+    "innerURL": "/derelict-house/"
+  },
+  { "emoji": "🏠", "emojiName": "House", "innerURL": "/house/" },
+  {
+    "emoji": "🏡",
+    "emojiName": "House with Garden",
+    "innerURL": "/house-with-garden/"
+  },
+  {
+    "emoji": "🏢",
+    "emojiName": "Office Building",
+    "innerURL": "/office-building/"
+  },
+  {
+    "emoji": "🏣",
+    "emojiName": "Japanese Post Office",
+    "innerURL": "/japanese-post-office/"
+  },
+  { "emoji": "🏤", "emojiName": "Post Office", "innerURL": "/post-office/" },
+  { "emoji": "🏥", "emojiName": "Hospital", "innerURL": "/hospital/" },
+  { "emoji": "🏦", "emojiName": "Bank", "innerURL": "/bank/" },
+  { "emoji": "🏨", "emojiName": "Hotel", "innerURL": "/hotel/" },
+  { "emoji": "🏩", "emojiName": "Love Hotel", "innerURL": "/love-hotel/" },
+  {
+    "emoji": "🏪",
+    "emojiName": "Convenience Store",
+    "innerURL": "/convenience-store/"
+  },
+  { "emoji": "🏫", "emojiName": "School", "innerURL": "/school/" },
+  {
+    "emoji": "🏬",
+    "emojiName": "Department Store",
+    "innerURL": "/department-store/"
+  },
+  { "emoji": "🏭", "emojiName": "Factory", "innerURL": "/factory/" },
+  {
+    "emoji": "🏯",
+    "emojiName": "Japanese Castle",
+    "innerURL": "/japanese-castle/"
+  },
+  { "emoji": "🏰", "emojiName": "Castle", "innerURL": "/castle/" },
+  { "emoji": "💒", "emojiName": "Wedding", "innerURL": "/wedding/" },
+  { "emoji": "🗼", "emojiName": "Tokyo Tower", "innerURL": "/tokyo-tower/" },
+  {
+    "emoji": "🗽",
+    "emojiName": "Statue of Liberty",
+    "innerURL": "/statue-of-liberty/"
+  },
+  { "emoji": "⛪", "emojiName": "hurch", "innerURL": "/church/" },
+  { "emoji": "🕌", "emojiName": "Mosque", "innerURL": "/mosque/" },
+  { "emoji": "🛕", "emojiName": "Hindu Temple", "innerURL": "/hindu-temple/" },
+  { "emoji": "🕍", "emojiName": "Synagogue", "innerURL": "/synagogue/" },
+  {
+    "emoji": "⛩️",
+    "emojiName": "Shinto Shrine",
+    "innerURL": "/shinto-shrine/"
+  },
+  { "emoji": "🕋", "emojiName": "Kaaba", "innerURL": "/kaaba/" },
+  { "emoji": "⛲", "emojiName": "ountain", "innerURL": "/fountain/" },
+  { "emoji": "⛺", "emojiName": "ent", "innerURL": "/tent/" },
+  { "emoji": "🌁", "emojiName": "Foggy", "innerURL": "/foggy/" },
+  {
+    "emoji": "🌃",
+    "emojiName": "Night with Stars",
+    "innerURL": "/night-with-stars/"
+  },
+  { "emoji": "🏙️", "emojiName": " Cityscape", "innerURL": "/cityscape/" },
+  {
+    "emoji": "🌄",
+    "emojiName": "Sunrise Over Mountains",
+    "innerURL": "/sunrise-over-mountains/"
+  },
+  { "emoji": "🌅", "emojiName": "Sunrise", "innerURL": "/sunrise/" },
+  {
+    "emoji": "🌆",
+    "emojiName": "Cityscape at Dusk",
+    "innerURL": "/cityscape-at-dusk/"
+  },
+  { "emoji": "🌇", "emojiName": "Sunset", "innerURL": "/sunset/" },
+  {
+    "emoji": "🌉",
+    "emojiName": "Bridge at Night",
+    "innerURL": "/bridge-at-night/"
+  },
+  {
+    "emoji": "🎠",
+    "emojiName": "Carousel Horse",
+    "innerURL": "/carousel-horse/"
+  },
+  {
+    "emoji": "🛝",
+    "emojiName": "Playground Slide",
+    "innerURL": "/playground-slide/"
+  },
+  { "emoji": "🎡", "emojiName": "Ferris Wheel", "innerURL": "/ferris-wheel/" },
+  {
+    "emoji": "🎢",
+    "emojiName": "Roller Coaster",
+    "innerURL": "/roller-coaster/"
+  },
+  { "emoji": "🚂", "emojiName": "Locomotive", "innerURL": "/locomotive/" },
+  { "emoji": "🚃", "emojiName": "Railway Car", "innerURL": "/railway-car/" },
+  {
+    "emoji": "🚄",
+    "emojiName": "High-Speed Train",
+    "innerURL": "/high-speed-train/"
+  },
+  { "emoji": "🚅", "emojiName": "Bullet Train", "innerURL": "/bullet-train/" },
+  { "emoji": "🚆", "emojiName": "Train", "innerURL": "/train/" },
+  { "emoji": "🚇", "emojiName": "Metro", "innerURL": "/metro/" },
+  { "emoji": "🚈", "emojiName": "Light Rail", "innerURL": "/light-rail/" },
+  { "emoji": "🚉", "emojiName": "Station", "innerURL": "/station/" },
+  { "emoji": "🚊", "emojiName": "Tram", "innerURL": "/tram/" },
+  { "emoji": "🚝", "emojiName": "Monorail", "innerURL": "/monorail/" },
+  {
+    "emoji": "🚞",
+    "emojiName": "Mountain Railway",
+    "innerURL": "/mountain-railway/"
+  },
+  { "emoji": "🚋", "emojiName": "Tram Car", "innerURL": "/tram-car/" },
+  { "emoji": "🚌", "emojiName": "Bus", "innerURL": "/bus/" },
+  { "emoji": "🚍", "emojiName": "Oncoming Bus", "innerURL": "/oncoming-bus/" },
+  { "emoji": "🚎", "emojiName": "Trolleybus", "innerURL": "/trolleybus/" },
+  { "emoji": "🚐", "emojiName": "Minibus", "innerURL": "/minibus/" },
+  { "emoji": "🚑", "emojiName": "Ambulance", "innerURL": "/ambulance/" },
+  { "emoji": "🚒", "emojiName": "Fire Engine", "innerURL": "/fire-engine/" },
+  { "emoji": "🚓", "emojiName": "Police Car", "innerURL": "/police-car/" },
+  {
+    "emoji": "🚔",
+    "emojiName": "Oncoming Police Car",
+    "innerURL": "/oncoming-police-car/"
+  },
+  { "emoji": "🚕", "emojiName": "Taxi", "innerURL": "/taxi/" },
+  {
+    "emoji": "🚖",
+    "emojiName": "Oncoming Taxi",
+    "innerURL": "/oncoming-taxi/"
+  },
+  { "emoji": "🚗", "emojiName": "Automobile", "innerURL": "/automobile/" },
+  {
+    "emoji": "🚘",
+    "emojiName": "Oncoming Automobile",
+    "innerURL": "/oncoming-automobile/"
+  },
+  {
+    "emoji": "🚙",
+    "emojiName": "Sport Utility Vehicle",
+    "innerURL": "/sport-utility-vehicle/"
+  },
+  { "emoji": "🛻", "emojiName": "Pickup Truck", "innerURL": "/pickup-truck/" },
+  {
+    "emoji": "🚚",
+    "emojiName": "Delivery Truck",
+    "innerURL": "/delivery-truck/"
+  },
+  {
+    "emoji": "🚛",
+    "emojiName": "Articulated Lorry",
+    "innerURL": "/articulated-lorry/"
+  },
+  { "emoji": "🚜", "emojiName": "Tractor", "innerURL": "/tractor/" },
+  { "emoji": "🏎️", "emojiName": " Racing Car", "innerURL": "/racing-car/" },
+  { "emoji": "🏍️", "emojiName": " Motorcycle", "innerURL": "/motorcycle/" },
+  {
+    "emoji": "🛵",
+    "emojiName": "Motor Scooter",
+    "innerURL": "/motor-scooter/"
+  },
+  {
+    "emoji": "🛺",
+    "emojiName": "Auto Rickshaw",
+    "innerURL": "/auto-rickshaw/"
+  },
+  { "emoji": "🚲", "emojiName": "Bicycle", "innerURL": "/bicycle/" },
+  { "emoji": "🛴", "emojiName": "Kick Scooter", "innerURL": "/kick-scooter/" },
+  { "emoji": "🚏", "emojiName": "Bus Stop", "innerURL": "/bus-stop/" },
+  { "emoji": "🛣️", "emojiName": " Motorway", "innerURL": "/motorway/" },
+  {
+    "emoji": "🛤️",
+    "emojiName": " Railway Track",
+    "innerURL": "/railway-track/"
+  },
+  { "emoji": "⛽", "emojiName": "uel Pump", "innerURL": "/fuel-pump/" },
+  { "emoji": "🛞", "emojiName": "Wheel", "innerURL": "/wheel/" },
+  {
+    "emoji": "🚨",
+    "emojiName": "Police Car Light",
+    "innerURL": "/police-car-light/"
+  },
+  {
+    "emoji": "🚥",
+    "emojiName": "Horizontal Traffic Light",
+    "innerURL": "/horizontal-traffic-light/"
+  },
+  {
+    "emoji": "🚦",
+    "emojiName": "Vertical Traffic Light",
+    "innerURL": "/vertical-traffic-light/"
+  },
+  { "emoji": "🚧", "emojiName": "Construction", "innerURL": "/construction/" },
+  { "emoji": "⚓", "emojiName": "nchor", "innerURL": "/anchor/" },
+  { "emoji": "🛟", "emojiName": "Ring Buoy", "innerURL": "/ring-buoy/" },
+  { "emoji": "⛵", "emojiName": "ailboat", "innerURL": "/sailboat/" },
+  { "emoji": "🚤", "emojiName": "Speedboat", "innerURL": "/speedboat/" },
+  {
+    "emoji": "🛳️",
+    "emojiName": " Passenger Ship",
+    "innerURL": "/passenger-ship/"
+  },
+  { "emoji": "⛴️", "emojiName": "Ferry", "innerURL": "/ferry/" },
+  { "emoji": "🛥️", "emojiName": " Motor Boat", "innerURL": "/motor-boat/" },
+  { "emoji": "🚢", "emojiName": "Ship", "innerURL": "/ship/" },
+  { "emoji": "✈️", "emojiName": "Airplane", "innerURL": "/airplane/" },
+  {
+    "emoji": "🛩️",
+    "emojiName": " Small Airplane",
+    "innerURL": "/small-airplane/"
+  },
+  {
+    "emoji": "🛫",
+    "emojiName": "Airplane Departure",
+    "innerURL": "/airplane-departure/"
+  },
+  {
+    "emoji": "🛬",
+    "emojiName": "Airplane Arrival",
+    "innerURL": "/airplane-arrival/"
+  },
+  { "emoji": "🪂", "emojiName": "Parachute", "innerURL": "/parachute/" },
+  { "emoji": "💺", "emojiName": "Seat", "innerURL": "/seat/" },
+  { "emoji": "🚁", "emojiName": "Helicopter", "innerURL": "/helicopter/" },
+  {
+    "emoji": "🚟",
+    "emojiName": "Suspension Railway",
+    "innerURL": "/suspension-railway/"
+  },
+  {
+    "emoji": "🚠",
+    "emojiName": "Mountain Cableway",
+    "innerURL": "/mountain-cableway/"
+  },
+  {
+    "emoji": "🚡",
+    "emojiName": "Aerial Tramway",
+    "innerURL": "/aerial-tramway/"
+  },
+  { "emoji": "🛰️", "emojiName": " Satellite", "innerURL": "/satellite/" },
+  { "emoji": "🚀", "emojiName": "Rocket", "innerURL": "/rocket/" },
+  {
+    "emoji": "🛸",
+    "emojiName": "Flying Saucer",
+    "innerURL": "/flying-saucer/"
+  },
+  {
+    "emoji": "🪐",
+    "emojiName": "Ringed Planet",
+    "innerURL": "/ringed-planet/"
+  },
+  {
+    "emoji": "🌠",
+    "emojiName": "Shooting Star",
+    "innerURL": "/shooting-star/"
+  },
+  { "emoji": "🌌", "emojiName": "Milky Way", "innerURL": "/milky-way/" },
+  {
+    "emoji": "⛱️",
+    "emojiName": "Umbrella on Ground",
+    "innerURL": "/umbrella-on-ground/"
+  },
+  { "emoji": "🎆", "emojiName": "Fireworks", "innerURL": "/fireworks/" },
+  { "emoji": "🎇", "emojiName": "Sparkler", "innerURL": "/sparkler/" },
+  {
+    "emoji": "🎑",
+    "emojiName": "Moon Viewing Ceremony",
+    "innerURL": "/moon-viewing-ceremony/"
+  },
+  { "emoji": "💴", "emojiName": "Yen Banknote", "innerURL": "/yen-banknote/" },
+  {
+    "emoji": "💵",
+    "emojiName": "Dollar Banknote",
+    "innerURL": "/dollar-banknote/"
+  },
+  {
+    "emoji": "💶",
+    "emojiName": "Euro Banknote",
+    "innerURL": "/euro-banknote/"
+  },
+  {
+    "emoji": "💷",
+    "emojiName": "Pound Banknote",
+    "innerURL": "/pound-banknote/"
+  },
+  { "emoji": "🗿", "emojiName": "Moai", "innerURL": "/moai/" },
+  {
+    "emoji": "🛂",
+    "emojiName": "Passport Control",
+    "innerURL": "/passport-control/"
+  },
+  { "emoji": "🛃", "emojiName": "Customs", "innerURL": "/customs/" },
+  {
+    "emoji": "🛄",
+    "emojiName": "Baggage Claim",
+    "innerURL": "/baggage-claim/"
+  },
+  { "emoji": "🛅", "emojiName": "Left Luggage", "innerURL": "/left-luggage/" }
+]

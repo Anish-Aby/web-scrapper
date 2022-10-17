@@ -1,0 +1,944 @@
+[
+  {
+    "emoji": "💘",
+    "emojiName": "Heart with Arrow",
+    "innerURL": "/heart-with-arrow/"
+  },
+  {
+    "emoji": "💝",
+    "emojiName": "Heart with Ribbon",
+    "innerURL": "/heart-with-ribbon/"
+  },
+  {
+    "emoji": "💖",
+    "emojiName": "Sparkling Heart",
+    "innerURL": "/sparkling-heart/"
+  },
+  {
+    "emoji": "💗",
+    "emojiName": "Growing Heart",
+    "innerURL": "/growing-heart/"
+  },
+  {
+    "emoji": "💓",
+    "emojiName": "Beating Heart",
+    "innerURL": "/beating-heart/"
+  },
+  {
+    "emoji": "💞",
+    "emojiName": "Revolving Hearts",
+    "innerURL": "/revolving-hearts/"
+  },
+  { "emoji": "💕", "emojiName": "Two Hearts", "innerURL": "/two-hearts/" },
+  {
+    "emoji": "💟",
+    "emojiName": "Heart Decoration",
+    "innerURL": "/heart-decoration/"
+  },
+  {
+    "emoji": "❣️",
+    "emojiName": "Heart Exclamation",
+    "innerURL": "/heart-exclamation/"
+  },
+  { "emoji": "💔", "emojiName": "Broken Heart", "innerURL": "/broken-heart/" },
+  {
+    "emoji": "❤️‍🔥",
+    "emojiName": "🔥 Heart on Fire",
+    "innerURL": "/heart-on-fire/"
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "emojiName": "🩹 Mending Heart",
+    "innerURL": "/mending-heart/"
+  },
+  { "emoji": "❤️", "emojiName": "Red Heart", "innerURL": "/red-heart/" },
+  { "emoji": "🧡", "emojiName": "Orange Heart", "innerURL": "/orange-heart/" },
+  { "emoji": "💛", "emojiName": "Yellow Heart", "innerURL": "/yellow-heart/" },
+  { "emoji": "💚", "emojiName": "Green Heart", "innerURL": "/green-heart/" },
+  { "emoji": "💙", "emojiName": "Blue Heart", "innerURL": "/blue-heart/" },
+  { "emoji": "💜", "emojiName": "Purple Heart", "innerURL": "/purple-heart/" },
+  { "emoji": "🤎", "emojiName": "Brown Heart", "innerURL": "/brown-heart/" },
+  { "emoji": "🖤", "emojiName": "Black Heart", "innerURL": "/black-heart/" },
+  { "emoji": "🤍", "emojiName": "White Heart", "innerURL": "/white-heart/" },
+  {
+    "emoji": "💯",
+    "emojiName": "Hundred Points",
+    "innerURL": "/hundred-points/"
+  },
+  { "emoji": "💢", "emojiName": "Anger Symbol", "innerURL": "/anger-symbol/" },
+  {
+    "emoji": "💬",
+    "emojiName": "Speech Balloon",
+    "innerURL": "/speech-balloon/"
+  },
+  {
+    "emoji": "👁️‍🗨️",
+    "emojiName": "‍🗨️ Eye in Speech Bubble",
+    "innerURL": "/eye-in-speech-bubble/"
+  },
+  {
+    "emoji": "🗨️",
+    "emojiName": " Left Speech Bubble",
+    "innerURL": "/left-speech-bubble/"
+  },
+  {
+    "emoji": "🗯️",
+    "emojiName": " Right Anger Bubble",
+    "innerURL": "/right-anger-bubble/"
+  },
+  {
+    "emoji": "💭",
+    "emojiName": "Thought Balloon",
+    "innerURL": "/thought-balloon/"
+  },
+  { "emoji": "💤", "emojiName": "Zzz", "innerURL": "/zzz/" },
+  { "emoji": "💮", "emojiName": "White Flower", "innerURL": "/white-flower/" },
+  { "emoji": "♨️", "emojiName": "Hot Springs", "innerURL": "/hot-springs/" },
+  { "emoji": "💈", "emojiName": "Barber Pole", "innerURL": "/barber-pole/" },
+  { "emoji": "🛑", "emojiName": "Stop Sign", "innerURL": "/stop-sign/" },
+  {
+    "emoji": "🕛",
+    "emojiName": "Twelve O’Clock",
+    "innerURL": "/twelve-oclock/"
+  },
+  {
+    "emoji": "🕧",
+    "emojiName": "Twelve-Thirty",
+    "innerURL": "/twelve-thirty/"
+  },
+  { "emoji": "🕐", "emojiName": "One O’Clock", "innerURL": "/one-oclock/" },
+  { "emoji": "🕜", "emojiName": "One-Thirty", "innerURL": "/one-thirty/" },
+  { "emoji": "🕑", "emojiName": "Two O’Clock", "innerURL": "/two-oclocktime/" },
+  { "emoji": "🕝", "emojiName": "Two-Thirty", "innerURL": "/two-thirty/" },
+  { "emoji": "🕒", "emojiName": "Three O’Clock", "innerURL": "/three-oclock/" },
+  { "emoji": "🕞", "emojiName": "Three-Thirty", "innerURL": "/three-thirty/" },
+  { "emoji": "🕓", "emojiName": "Four O’Clock", "innerURL": "/four-oclock/" },
+  { "emoji": "🕟", "emojiName": "Four-Thirty", "innerURL": "/four-thirty/" },
+  { "emoji": "🕔", "emojiName": "Five O’Clock", "innerURL": "/five-oclock/" },
+  { "emoji": "🕠", "emojiName": "Five-Thirty", "innerURL": "/five-thirty/" },
+  { "emoji": "🕕", "emojiName": "Six O’Clock", "innerURL": "/six-oclock/" },
+  { "emoji": "🕡", "emojiName": "Six-Thirty", "innerURL": "/six-thirty/" },
+  { "emoji": "🕖", "emojiName": "Seven O’Clock", "innerURL": "/seven-oclock/" },
+  { "emoji": "🕢", "emojiName": "Seven-Thirty", "innerURL": "/seven-thirty/" },
+  { "emoji": "🕗", "emojiName": "Eight O’Clock", "innerURL": "/eight-oclock/" },
+  { "emoji": "🕣", "emojiName": "Eight-Thirty", "innerURL": "/eight-thirty/" },
+  { "emoji": "🕘", "emojiName": "Nine O’Clock", "innerURL": "/nine-oclock/" },
+  { "emoji": "🕤", "emojiName": "Nine-Thirty", "innerURL": "/nine-thirty/" },
+  { "emoji": "🕙", "emojiName": "Ten O’Clock", "innerURL": "/ten-oclock/" },
+  { "emoji": "🕥", "emojiName": "Ten-Thirty", "innerURL": "/ten-thirty/" },
+  {
+    "emoji": "🕚",
+    "emojiName": "Eleven O’Clock",
+    "innerURL": "/eleven-oclock/"
+  },
+  {
+    "emoji": "🕦",
+    "emojiName": "Eleven-Thirty",
+    "innerURL": "/eleven-thirty/"
+  },
+  { "emoji": "🌀", "emojiName": "Cyclone", "innerURL": "/cyclone/" },
+  { "emoji": "♠️", "emojiName": "Spade Suit", "innerURL": "/spade-suit/" },
+  { "emoji": "♥️", "emojiName": "Heart Suit", "innerURL": "/heart-suit/" },
+  { "emoji": "♦️", "emojiName": "Diamond Suit", "innerURL": "/diamond-suit/" },
+  { "emoji": "♣️", "emojiName": "Club Suit", "innerURL": "/club-suit/" },
+  { "emoji": "🃏", "emojiName": "Joker", "innerURL": "/joker/" },
+  {
+    "emoji": "🀄",
+    "emojiName": "Mahjong Red Dragon",
+    "innerURL": "/mahjong-red-dragon/"
+  },
+  {
+    "emoji": "🎴",
+    "emojiName": "Flower Playing Cards",
+    "innerURL": "/flower-playing-cards/"
+  },
+  {
+    "emoji": "🔇",
+    "emojiName": "Muted Speaker",
+    "innerURL": "/muted-speaker/"
+  },
+  {
+    "emoji": "🔈",
+    "emojiName": "Speaker Low Volume",
+    "innerURL": "/speaker-low-volume/"
+  },
+  {
+    "emoji": "🔉",
+    "emojiName": "Speaker Medium Volume",
+    "innerURL": "/speaker-medium-volume/"
+  },
+  {
+    "emoji": "🔊",
+    "emojiName": "Speaker High Volume",
+    "innerURL": "/speaker-high-volume/"
+  },
+  { "emoji": "📢", "emojiName": "Loudspeaker", "innerURL": "/loudspeaker/" },
+  { "emoji": "📣", "emojiName": "Megaphone", "innerURL": "/megaphone/" },
+  { "emoji": "📯", "emojiName": "Postal Horn", "innerURL": "/postal-horn/" },
+  { "emoji": "🔔", "emojiName": "Bell", "innerURL": "/bell/" },
+  {
+    "emoji": "🔕",
+    "emojiName": "Bell with Slash",
+    "innerURL": "/bell-with-slash/"
+  },
+  { "emoji": "🎵", "emojiName": "Musical Note", "innerURL": "/musical-note/" },
+  {
+    "emoji": "🎶",
+    "emojiName": "Musical Notes",
+    "innerURL": "/musical-notes/"
+  },
+  {
+    "emoji": "💹",
+    "emojiName": "Chart Increasing with Yen",
+    "innerURL": "/chart-increasing-with-yen/"
+  },
+  { "emoji": "🛗", "emojiName": "Elevator", "innerURL": "/elevator/" },
+  { "emoji": "🏧", "emojiName": "ATM Sign", "innerURL": "/atm-sign/" },
+  {
+    "emoji": "🚮",
+    "emojiName": "Litter in Bin Sign",
+    "innerURL": "/litter-in-bin-sign/"
+  },
+  {
+    "emoji": "🚰",
+    "emojiName": "Potable Water",
+    "innerURL": "/potable-water/"
+  },
+  {
+    "emoji": "♿",
+    "emojiName": "heelchair Symbol",
+    "innerURL": "/wheelchair-symbol/"
+  },
+  { "emoji": "🚹", "emojiName": "Men’s Room", "innerURL": "/mens-room/" },
+  { "emoji": "🚺", "emojiName": "Women’s Room", "innerURL": "/womens-room/" },
+  { "emoji": "🚻", "emojiName": "Restroom", "innerURL": "/restroom/" },
+  { "emoji": "🚼", "emojiName": "Baby Symbol", "innerURL": "/baby-symbol/" },
+  { "emoji": "🚾", "emojiName": "Water Closet", "innerURL": "/water-closet/" },
+  { "emoji": "⚠️", "emojiName": "Warning", "innerURL": "/warning/" },
+  {
+    "emoji": "🚸",
+    "emojiName": "Children Crossing",
+    "innerURL": "/children-crossing/"
+  },
+  { "emoji": "⛔", "emojiName": "o Entry", "innerURL": "/no-entry/" },
+  { "emoji": "🚫", "emojiName": "Prohibited", "innerURL": "/prohibited/" },
+  { "emoji": "🚳", "emojiName": "No Bicycles", "innerURL": "/no-bicycles/" },
+  { "emoji": "🚭", "emojiName": "No Smoking", "innerURL": "/no-smoking/" },
+  { "emoji": "🚯", "emojiName": "No Littering", "innerURL": "/no-littering/" },
+  {
+    "emoji": "🚱",
+    "emojiName": "Non-Potable Water",
+    "innerURL": "/non-potable-water/"
+  },
+  {
+    "emoji": "🚷",
+    "emojiName": "No Pedestrians",
+    "innerURL": "/no-pedestrians/"
+  },
+  {
+    "emoji": "📵",
+    "emojiName": "No Mobile Phones",
+    "innerURL": "/no-mobile-phones/"
+  },
+  {
+    "emoji": "🔞",
+    "emojiName": "No One Under Eighteen",
+    "innerURL": "/no-one-under-eighteen/"
+  },
+  { "emoji": "☢️", "emojiName": "Radioactive", "innerURL": "/radioactive/" },
+  { "emoji": "☣️", "emojiName": "Biohazard", "innerURL": "/biohazard/" },
+  { "emoji": "⬆️", "emojiName": "Up Arrow", "innerURL": "/up-arrow/" },
+  {
+    "emoji": "↗️",
+    "emojiName": "Up-Right Arrow",
+    "innerURL": "/up-right-arrow/"
+  },
+  { "emoji": "➡️", "emojiName": "Right Arrow", "innerURL": "/right-arrow/" },
+  {
+    "emoji": "↘️",
+    "emojiName": "Down-Right Arrow",
+    "innerURL": "/down-right-arrow/"
+  },
+  { "emoji": "⬇️", "emojiName": "Down Arrow", "innerURL": "/down-arrow/" },
+  {
+    "emoji": "↙️",
+    "emojiName": "Down-Left Arrow",
+    "innerURL": "/down-left-arrow/"
+  },
+  { "emoji": "⬅️", "emojiName": "Left Arrow", "innerURL": "/left-arrow/" },
+  {
+    "emoji": "↖️",
+    "emojiName": "Up-Left Arrow",
+    "innerURL": "/up-left-arrow/"
+  },
+  {
+    "emoji": "↕️",
+    "emojiName": "Up-Down Arrow",
+    "innerURL": "/up-down-arrow/"
+  },
+  {
+    "emoji": "↔️",
+    "emojiName": "Left-Right Arrow",
+    "innerURL": "/left-right-arrow/"
+  },
+  {
+    "emoji": "↩️",
+    "emojiName": "Right Arrow Curving Left",
+    "innerURL": "/right-arrow-curving-left/"
+  },
+  {
+    "emoji": "↪️",
+    "emojiName": "Left Arrow Curving Right",
+    "innerURL": "/left-arrow-curving-right/"
+  },
+  {
+    "emoji": "⤴️",
+    "emojiName": "Right Arrow Curving Up",
+    "innerURL": "/right-arrow-curving-up/"
+  },
+  {
+    "emoji": "⤵️",
+    "emojiName": "Right Arrow Curving Down",
+    "innerURL": "/right-arrow-curving-down/"
+  },
+  {
+    "emoji": "🔃",
+    "emojiName": "Clockwise Vertical Arrows",
+    "innerURL": "/clockwise-vertical-arrows/"
+  },
+  {
+    "emoji": "🔄",
+    "emojiName": "Counterclockwise Arrows Button",
+    "innerURL": "/counterclockwise-arrows-button/"
+  },
+  { "emoji": "🔙", "emojiName": "Back Arrow", "innerURL": "/back-arrow/" },
+  { "emoji": "🔚", "emojiName": "End Arrow", "innerURL": "/end-arrow/" },
+  { "emoji": "🔛", "emojiName": "On! Arrow", "innerURL": "/on-arrow/" },
+  { "emoji": "🔜", "emojiName": "Soon Arrow", "innerURL": "/soon-arrow/" },
+  { "emoji": "🔝", "emojiName": "Top Arrow", "innerURL": "/top-arrow/" },
+  {
+    "emoji": "🛐",
+    "emojiName": "Place of Worship",
+    "innerURL": "/place-of-worship/"
+  },
+  { "emoji": "⚛️", "emojiName": "Atom Symbol", "innerURL": "/atom-symbol/" },
+  { "emoji": "🕉️", "emojiName": " Om", "innerURL": "/om/" },
+  {
+    "emoji": "✡️",
+    "emojiName": "Star of David",
+    "innerURL": "/star-of-david/"
+  },
+  {
+    "emoji": "☸️",
+    "emojiName": "Wheel of Dharma",
+    "innerURL": "/wheel-of-dharma/"
+  },
+  { "emoji": "☯️", "emojiName": "Yin Yang", "innerURL": "/yin-yang/" },
+  { "emoji": "✝️", "emojiName": "Latin Cross", "innerURL": "/latin-cross/" },
+  {
+    "emoji": "☦️",
+    "emojiName": "Orthodox Cross",
+    "innerURL": "/orthodox-cross/"
+  },
+  {
+    "emoji": "☪️",
+    "emojiName": "Star and Crescent",
+    "innerURL": "/star-and-crescent/"
+  },
+  { "emoji": "☮️", "emojiName": "Peace Symbol", "innerURL": "/peace-symbol/" },
+  { "emoji": "🕎", "emojiName": "Menorah", "innerURL": "/menorah/" },
+  {
+    "emoji": "🔯",
+    "emojiName": "Dotted Six-Pointed Star",
+    "innerURL": "/dotted-six-pointed-star/"
+  },
+  { "emoji": "♈", "emojiName": "ries", "innerURL": "/aries/" },
+  { "emoji": "♉", "emojiName": "aurus", "innerURL": "/taurus/" },
+  { "emoji": "♊", "emojiName": "emini", "innerURL": "/gemini/" },
+  { "emoji": "♋", "emojiName": "ancer", "innerURL": "/cancer/" },
+  { "emoji": "♌", "emojiName": "eo", "innerURL": "/leo/" },
+  { "emoji": "♍", "emojiName": "irgo", "innerURL": "/virgo/" },
+  { "emoji": "♎", "emojiName": "ibra", "innerURL": "/libra/" },
+  { "emoji": "♏", "emojiName": "corpio", "innerURL": "/scorpio/" },
+  { "emoji": "♐", "emojiName": "agittarius", "innerURL": "/sagittarius/" },
+  { "emoji": "♑", "emojiName": "apricorn", "innerURL": "/capricorn/" },
+  { "emoji": "♒", "emojiName": "quarius", "innerURL": "/aquarius/" },
+  { "emoji": "♓", "emojiName": "isces", "innerURL": "/pisces/" },
+  { "emoji": "⛎", "emojiName": "phiuchus", "innerURL": "/ophiuchus/" },
+  {
+    "emoji": "🔀",
+    "emojiName": "Shuffle Tracks Button",
+    "innerURL": "/shuffle-tracks-button/"
+  },
+  {
+    "emoji": "🔁",
+    "emojiName": "Repeat Button",
+    "innerURL": "/repeat-button/"
+  },
+  {
+    "emoji": "🔂",
+    "emojiName": "Repeat Single Button",
+    "innerURL": "/repeat-single-button/"
+  },
+  { "emoji": "▶️", "emojiName": "Play Button", "innerURL": "/play-button/" },
+  {
+    "emoji": "⏩",
+    "emojiName": "ast-Forward Button",
+    "innerURL": "/fast-forward-button/"
+  },
+  {
+    "emoji": "⏭️",
+    "emojiName": "Next Track Button",
+    "innerURL": "/next-track-button/"
+  },
+  {
+    "emoji": "⏯️",
+    "emojiName": "Play or Pause Button",
+    "innerURL": "/play-or-pause-button/"
+  },
+  {
+    "emoji": "◀️",
+    "emojiName": "Reverse Button",
+    "innerURL": "/reverse-button/"
+  },
+  {
+    "emoji": "⏪",
+    "emojiName": "ast Reverse Button",
+    "innerURL": "/fast-reverse-button/"
+  },
+  {
+    "emoji": "⏮️",
+    "emojiName": "Last Track Button",
+    "innerURL": "/last-track-button/"
+  },
+  {
+    "emoji": "🔼",
+    "emojiName": "Upwards Button",
+    "innerURL": "/upwards-button/"
+  },
+  {
+    "emoji": "⏫",
+    "emojiName": "ast Up Button",
+    "innerURL": "/fast-up-button/"
+  },
+  {
+    "emoji": "🔽",
+    "emojiName": "Downwards Button",
+    "innerURL": "/downwards-button/"
+  },
+  {
+    "emoji": "⏬",
+    "emojiName": "ast Down Button",
+    "innerURL": "/fast-down-button/"
+  },
+  { "emoji": "⏸️", "emojiName": "Pause Button", "innerURL": "/pause-button/" },
+  { "emoji": "⏹️", "emojiName": "Stop Button", "innerURL": "/stop-button/" },
+  {
+    "emoji": "⏺️",
+    "emojiName": "Record Button",
+    "innerURL": "/record-button/"
+  },
+  { "emoji": "⏏️", "emojiName": "Eject Button", "innerURL": "/eject-button/" },
+  { "emoji": "🎦", "emojiName": "Cinema", "innerURL": "/cinema/" },
+  { "emoji": "🔅", "emojiName": "Dim Button", "innerURL": "/dim-button/" },
+  {
+    "emoji": "🔆",
+    "emojiName": "Bright Button",
+    "innerURL": "/bright-button/"
+  },
+  { "emoji": "📶", "emojiName": "Antenna Bars", "innerURL": "/antenna-bars/" },
+  {
+    "emoji": "📳",
+    "emojiName": "Vibration Mode",
+    "innerURL": "/vibration-mode/"
+  },
+  {
+    "emoji": "📴",
+    "emojiName": "Mobile Phone Off",
+    "innerURL": "/mobile-phone-off/"
+  },
+  { "emoji": "♀️", "emojiName": "Female Sign", "innerURL": "/female-sign/" },
+  { "emoji": "♂️", "emojiName": "Male Sign", "innerURL": "/male-sign/" },
+  { "emoji": "✖️", "emojiName": "Multiply", "innerURL": "/multiply/" },
+  { "emoji": "➕", "emojiName": "lus", "innerURL": "/plus/" },
+  { "emoji": "➖", "emojiName": "inus", "innerURL": "/minus/" },
+  { "emoji": "➗", "emojiName": "ivide", "innerURL": "/divide/" },
+  {
+    "emoji": "🟰",
+    "emojiName": "Heavy Equals Sign",
+    "innerURL": "/heavy-equals-sign/"
+  },
+  { "emoji": "♾️", "emojiName": "Infinity", "innerURL": "/infinity/" },
+  {
+    "emoji": "‼️",
+    "emojiName": "Double Exclamation Mark",
+    "innerURL": "/double-exclamation-mark/"
+  },
+  {
+    "emoji": "⁉️",
+    "emojiName": "Exclamation Question Mark",
+    "innerURL": "/exclamation-question-mark/"
+  },
+  {
+    "emoji": "❓",
+    "emojiName": "ed Question Mark",
+    "innerURL": "/question-mark/"
+  },
+  {
+    "emoji": "❔",
+    "emojiName": "hite Question Mark",
+    "innerURL": "/white-question-mark/"
+  },
+  {
+    "emoji": "❕",
+    "emojiName": "hite Exclamation Mark",
+    "innerURL": "/white-exclamation-mark/"
+  },
+  {
+    "emoji": "❗",
+    "emojiName": "ed Exclamation Mark",
+    "innerURL": "/exclamation-mark/"
+  },
+  { "emoji": "〰️", "emojiName": "Wavy Dash", "innerURL": "/wavy-dash/" },
+  {
+    "emoji": "💱",
+    "emojiName": "Currency Exchange",
+    "innerURL": "/currency-exchange/"
+  },
+  {
+    "emoji": "💲",
+    "emojiName": "Heavy Dollar Sign",
+    "innerURL": "/heavy-dollar-sign/"
+  },
+  {
+    "emoji": "⚕️",
+    "emojiName": "Medical Symbol",
+    "innerURL": "/medical-symbol/"
+  },
+  {
+    "emoji": "♻️",
+    "emojiName": "Recycling Symbol",
+    "innerURL": "/recycling-symbol/"
+  },
+  { "emoji": "⚜️", "emojiName": "Fleur-de-lis", "innerURL": "/fleur-de-lis/" },
+  {
+    "emoji": "🔱",
+    "emojiName": "Trident Emblem",
+    "innerURL": "/trident-emblem/"
+  },
+  { "emoji": "📛", "emojiName": "Name Badge", "innerURL": "/name-badge/" },
+  {
+    "emoji": "🔰",
+    "emojiName": "Japanese Symbol for Beginner",
+    "innerURL": "/japanese-symbol-for-beginner/"
+  },
+  {
+    "emoji": "⭕",
+    "emojiName": "ollow Red Circle",
+    "innerURL": "/hollow-red-circle/"
+  },
+  {
+    "emoji": "✅",
+    "emojiName": "heck Mark Button",
+    "innerURL": "/check-mark-button/"
+  },
+  {
+    "emoji": "☑️",
+    "emojiName": "Check Box with Check",
+    "innerURL": "/check-box-with-check/"
+  },
+  { "emoji": "✔️", "emojiName": "Check Mark", "innerURL": "/check-mark/" },
+  { "emoji": "❌", "emojiName": "ross Mark", "innerURL": "/cross-mark/" },
+  {
+    "emoji": "❎",
+    "emojiName": "ross Mark Button",
+    "innerURL": "/cross-mark-button/"
+  },
+  { "emoji": "➰", "emojiName": "urly Loop", "innerURL": "/curly-loop/" },
+  {
+    "emoji": "➿",
+    "emojiName": "ouble Curly Loop",
+    "innerURL": "/double-curly-loop/"
+  },
+  {
+    "emoji": "〽️",
+    "emojiName": "Part Alternation Mark",
+    "innerURL": "/part-alternation-mark/"
+  },
+  {
+    "emoji": "✳️",
+    "emojiName": "Eight-Spoked Asterisk",
+    "innerURL": "/eight-spoked-asterisk/"
+  },
+  {
+    "emoji": "✴️",
+    "emojiName": "Eight-Pointed Star",
+    "innerURL": "/eight-pointed-star/"
+  },
+  { "emoji": "❇️", "emojiName": "Sparkle", "innerURL": "/sparkle/" },
+  { "emoji": "©️", "emojiName": "Copyright", "innerURL": "/copyright/" },
+  { "emoji": "®️", "emojiName": "Registered", "innerURL": "/registered/" },
+  { "emoji": "™️", "emojiName": "Trade Mark", "innerURL": "/trade-mark/" },
+  {
+    "emoji": "#️⃣",
+    "emojiName": " Keycap Number Sign",
+    "innerURL": "/keycap-number-sign/"
+  },
+  {
+    "emoji": "*️⃣",
+    "emojiName": " Keycap Asterisk",
+    "innerURL": "/keycap-asterisk/"
+  },
+  {
+    "emoji": "0️⃣",
+    "emojiName": " Keycap Digit Zero",
+    "innerURL": "/keycap-digit-zero/"
+  },
+  {
+    "emoji": "1️⃣",
+    "emojiName": " Keycap Digit One",
+    "innerURL": "/keycap-digit-one/"
+  },
+  {
+    "emoji": "2️⃣",
+    "emojiName": " Keycap Digit Two",
+    "innerURL": "/keycap-digit-two/"
+  },
+  {
+    "emoji": "3️⃣",
+    "emojiName": " Keycap Digit Three",
+    "innerURL": "/keycap-digit-three/"
+  },
+  {
+    "emoji": "4️⃣",
+    "emojiName": " Keycap Digit Four",
+    "innerURL": "/keycap-digit-four/"
+  },
+  {
+    "emoji": "5️⃣",
+    "emojiName": " Keycap Digit Five",
+    "innerURL": "/keycap-digit-five/"
+  },
+  {
+    "emoji": "6️⃣",
+    "emojiName": " Keycap Digit Six",
+    "innerURL": "/keycap-digit-six/"
+  },
+  {
+    "emoji": "7️⃣",
+    "emojiName": " Keycap Digit Seven",
+    "innerURL": "/keycap-digit-seven/"
+  },
+  {
+    "emoji": "8️⃣",
+    "emojiName": " Keycap Digit Eight",
+    "innerURL": "/keycap-digit-eight/"
+  },
+  {
+    "emoji": "9️⃣",
+    "emojiName": " Keycap Digit Nine",
+    "innerURL": "/keycap-digit-nine/"
+  },
+  { "emoji": "🔟", "emojiName": "Keycap: 10", "innerURL": "/keycap-10/" },
+  {
+    "emoji": "🔠",
+    "emojiName": "Input Latin Uppercase",
+    "innerURL": "/input-latin-uppercase/"
+  },
+  {
+    "emoji": "🔡",
+    "emojiName": "Input Latin Lowercase",
+    "innerURL": "/input-latin-lowercase/"
+  },
+  {
+    "emoji": "🔢",
+    "emojiName": "Input Numbers",
+    "innerURL": "/input-numbers/"
+  },
+  {
+    "emoji": "🔣",
+    "emojiName": "Input Symbols",
+    "innerURL": "/input-symbols/"
+  },
+  {
+    "emoji": "🔤",
+    "emojiName": "Input Latin Letters",
+    "innerURL": "/input-latin-letters/"
+  },
+  {
+    "emoji": "🅰️",
+    "emojiName": " A Button (Blood Type)",
+    "innerURL": "/a-button-blood-type/"
+  },
+  {
+    "emoji": "🆎",
+    "emojiName": "AB Button (Blood Type)",
+    "innerURL": "/ab-button-blood-type/"
+  },
+  {
+    "emoji": "🅱️",
+    "emojiName": " B Button (Blood Type)",
+    "innerURL": "/b-button-blood-type/"
+  },
+  { "emoji": "🆑", "emojiName": "CL Button", "innerURL": "/cl-button/" },
+  { "emoji": "🆒", "emojiName": "Cool Button", "innerURL": "/cool-button/" },
+  { "emoji": "🆓", "emojiName": "Free Button", "innerURL": "/free-button/" },
+  { "emoji": "ℹ️", "emojiName": "Information", "innerURL": "/information/" },
+  { "emoji": "🆔", "emojiName": "ID Button", "innerURL": "/id-button/" },
+  { "emoji": "Ⓜ️", "emojiName": "Circled M", "innerURL": "/circled-m/" },
+  { "emoji": "🆕", "emojiName": "New Button", "innerURL": "/new-button/" },
+  { "emoji": "🆖", "emojiName": "NG Button", "innerURL": "/ng-button/" },
+  {
+    "emoji": "🅾️",
+    "emojiName": " O Button (Blood Type)",
+    "innerURL": "/o-button-blood-type/"
+  },
+  { "emoji": "🆗", "emojiName": "OK Button", "innerURL": "/ok-button/" },
+  { "emoji": "🅿️", "emojiName": " P Button", "innerURL": "/p-button/" },
+  { "emoji": "🆘", "emojiName": "SOS Button", "innerURL": "/sos-button/" },
+  { "emoji": "🆙", "emojiName": "Up! Button", "innerURL": "/up-button/" },
+  { "emoji": "🆚", "emojiName": "Vs Button", "innerURL": "/vs-button/" },
+  {
+    "emoji": "🈁",
+    "emojiName": "Japanese “Here” Button",
+    "innerURL": "/japanese-here-button/"
+  },
+  {
+    "emoji": "🈂️",
+    "emojiName": " Japanese “Service Charge” Button",
+    "innerURL": "/japanese-service-charge-button/"
+  },
+  {
+    "emoji": "🈷️",
+    "emojiName": " Japanese “Monthly Amount” Button",
+    "innerURL": "/japanese-monthly-amount-button/"
+  },
+  {
+    "emoji": "🈶",
+    "emojiName": "Japanese “Not Free of Charge” Button",
+    "innerURL": "/japanese-not-free-of-charge-button/"
+  },
+  {
+    "emoji": "🈯",
+    "emojiName": "Japanese “Reserved” Button",
+    "innerURL": "/japanese-reserved-button/"
+  },
+  {
+    "emoji": "🉐",
+    "emojiName": "Japanese “Bargain” Button",
+    "innerURL": "/japanese-bargain-button/"
+  },
+  {
+    "emoji": "🈹",
+    "emojiName": "Japanese “Discount” Button",
+    "innerURL": "/japanese-discount-button/"
+  },
+  {
+    "emoji": "🈚",
+    "emojiName": "Japanese “Free of Charge” Button",
+    "innerURL": "/japanese-free-of-charge-button/"
+  },
+  {
+    "emoji": "🈲",
+    "emojiName": "Japanese “Prohibited” Button",
+    "innerURL": "/japanese-prohibited-button/"
+  },
+  {
+    "emoji": "🉑",
+    "emojiName": "Japanese “Acceptable” Button",
+    "innerURL": "/japanese-acceptable-button/"
+  },
+  {
+    "emoji": "🈸",
+    "emojiName": "Japanese “Application” Button",
+    "innerURL": "/japanese-application-button/"
+  },
+  {
+    "emoji": "🈴",
+    "emojiName": "Japanese “Passing Grade” Button",
+    "innerURL": "/japanese-passing-grade-button/"
+  },
+  {
+    "emoji": "🈳",
+    "emojiName": "Japanese “Vacancy” Button",
+    "innerURL": "/japanese-vacancy-button/"
+  },
+  {
+    "emoji": "㊗️",
+    "emojiName": "Japanese “Congratulations” Button",
+    "innerURL": "/japanese-congratulations-button/"
+  },
+  {
+    "emoji": "㊙️",
+    "emojiName": "Japanese “Secret” Button",
+    "innerURL": "/japanese-secret-button/"
+  },
+  {
+    "emoji": "🈺",
+    "emojiName": "Japanese “Open for Business” Button",
+    "innerURL": "/japanese-open-for-business-button/"
+  },
+  {
+    "emoji": "🈵",
+    "emojiName": "Japanese “No Vacancy” Button",
+    "innerURL": "/japanese-no-vacancy-button/"
+  },
+  {
+    "emoji": "🔴",
+    "emojiName": "Red Circle",
+    "innerURL": "/large-red-circle/"
+  },
+  {
+    "emoji": "🟠",
+    "emojiName": "Orange Circle",
+    "innerURL": "/large-orange-circle/"
+  },
+  {
+    "emoji": "🟡",
+    "emojiName": "Yellow Circle",
+    "innerURL": "/large-yellow-circle/"
+  },
+  {
+    "emoji": "🟢",
+    "emojiName": "Green Circle",
+    "innerURL": "/large-green-circle/"
+  },
+  {
+    "emoji": "🔵",
+    "emojiName": "Blue Circle",
+    "innerURL": "/large-blue-circle/"
+  },
+  {
+    "emoji": "🟣",
+    "emojiName": "Purple Circle",
+    "innerURL": "/large-purple-circle/"
+  },
+  {
+    "emoji": "🟤",
+    "emojiName": "Brown Circle",
+    "innerURL": "/large-brown-circle/"
+  },
+  { "emoji": "⚫", "emojiName": "lack Circle", "innerURL": "/black-circle/" },
+  { "emoji": "⚪", "emojiName": "hite Circle", "innerURL": "/white-circle/" },
+  {
+    "emoji": "🟥",
+    "emojiName": "Red Square",
+    "innerURL": "/large-red-square/"
+  },
+  {
+    "emoji": "🟧",
+    "emojiName": "Orange Square",
+    "innerURL": "/large-orange-square/"
+  },
+  {
+    "emoji": "🟨",
+    "emojiName": "Yellow Square",
+    "innerURL": "/large-yellow-square/"
+  },
+  {
+    "emoji": "🟩",
+    "emojiName": "Green Square",
+    "innerURL": "/large-green-square/"
+  },
+  {
+    "emoji": "🟦",
+    "emojiName": "Blue Square",
+    "innerURL": "/large-blue-square/"
+  },
+  {
+    "emoji": "🟪",
+    "emojiName": "Purple Square",
+    "innerURL": "/large-purple-square/"
+  },
+  {
+    "emoji": "🟫",
+    "emojiName": "Brown Square",
+    "innerURL": "/large-brown-square/"
+  },
+  {
+    "emoji": "⬛",
+    "emojiName": "lack Large Square",
+    "innerURL": "/black-large-square/"
+  },
+  {
+    "emoji": "⬜",
+    "emojiName": "hite Large Square",
+    "innerURL": "/white-large-square/"
+  },
+  {
+    "emoji": "◼️",
+    "emojiName": "Black Medium Square",
+    "innerURL": "/black-medium-square/"
+  },
+  {
+    "emoji": "◻️",
+    "emojiName": "White Medium Square",
+    "innerURL": "/white-medium-square/"
+  },
+  {
+    "emoji": "◾",
+    "emojiName": "lack Medium-Small Square",
+    "innerURL": "/black-medium-small-square/"
+  },
+  {
+    "emoji": "◽",
+    "emojiName": "hite Medium-Small Square",
+    "innerURL": "/white-medium-small-square/"
+  },
+  {
+    "emoji": "▪️",
+    "emojiName": "Black Small Square",
+    "innerURL": "/black-small-square/"
+  },
+  {
+    "emoji": "▫️",
+    "emojiName": "White Small Square",
+    "innerURL": "/white-small-square/"
+  },
+  {
+    "emoji": "🔶",
+    "emojiName": "Large Orange Diamond",
+    "innerURL": "/large-orange-diamond/"
+  },
+  {
+    "emoji": "🔷",
+    "emojiName": "Large Blue Diamond",
+    "innerURL": "/large-blue-diamond/"
+  },
+  {
+    "emoji": "🔸",
+    "emojiName": "Small Orange Diamond",
+    "innerURL": "/small-orange-diamond/"
+  },
+  {
+    "emoji": "🔹",
+    "emojiName": "Small Blue Diamond",
+    "innerURL": "/small-blue-diamond/"
+  },
+  {
+    "emoji": "🔺",
+    "emojiName": "Red Triangle Pointed Up",
+    "innerURL": "/red-triangle-pointed-up/"
+  },
+  {
+    "emoji": "🔻",
+    "emojiName": "Red Triangle Pointed Down",
+    "innerURL": "/red-triangle-pointed-down/"
+  },
+  {
+    "emoji": "💠",
+    "emojiName": "Diamond with a Dot",
+    "innerURL": "/diamond-with-a-dot/"
+  },
+  { "emoji": "🔘", "emojiName": "Radio Button", "innerURL": "/radio-button/" },
+  {
+    "emoji": "🔳",
+    "emojiName": "White Square Button",
+    "innerURL": "/white-square-button/"
+  },
+  {
+    "emoji": "🔲",
+    "emojiName": "Black Square Button",
+    "innerURL": "/black-square-button/"
+  }
+]
